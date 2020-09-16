@@ -5,7 +5,7 @@
 We cover critical support with the following tools and processes:
 
 - **A suite of monitoring tools and alerts** so we know when something goes
-  wrong. See our guide on [Alerts](/alerts/) for more information.
+  wrong. See our guide on [Alerts](/ongoing-support/alerts) for more information.
 - **A weekday rota** so we know who orchestrates responding to incidents using
   the Trello board (not public). 
 - **Runbooks** so we know what to do.

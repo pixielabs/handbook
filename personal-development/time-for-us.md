@@ -16,7 +16,7 @@ our time valuably on something that helps further Pixie Labs objectives.
 ## 1. Are there any support issues I can help with?
 We are paid for support, so fulfilling that comes first. Still no rabbit holes
 though! Support issues should be dealt with in 30 minutes or backlogged. See our
-guide on [Support processes](../ongoing-support/support-processes).
+guide on [Support processes](/ongoing-support/support-processes).
 
 ## 2. Is there any business development I can help with?
 Ask Philip! Sometimes a pitch or a conversation would benefit from some
