@@ -15,20 +15,24 @@ support our clients and build great software!
 - [Pay review](/working-at-pixie-labs/pay-review/)
 - [Attending conferences](/working-at-pixie-labs/attending-conferences/)
 - [Security](/working-at-pixie-labs/security/)
-- [Tools](/working-at-pixie-labs/tools/)
+- [Tools for teamwork](/working-at-pixie-labs/tools/)
 - [Writing style](/working-at-pixie-labs/writing-style/)
 
 ## Project management
 
+- [Estimating a project](/project-management/estimating)
+- [Working with designers](/project-management/working-with-designers/)
+- [Beginning and ending projects](/project-management/beginning-and-ending)
 - [Client onboarding](/project-management/client-onboarding/)
 - [Project delivery metrics](/working-at-pixie-labs/project-delivery-metrics/)
 
 ## Project delivery
 
 - [Priorities](/project-delivery/priorities/)
-- [General Do's and Dont's](/project-delivery/general-dos-donts/)
+- [General Dos and Donts](/project-delivery/general-dos-donts/)
 - [Style guidelines](/project-delivery/style-guidelines/)
-- [Tools](/project-delivery/tools/)
+- [Tools for development](/project-delivery/tools/)
+- [Testing](/project-delivery/testing/)
 - [Reviews](/project-delivery/reviews/)
 - [Deploying](/project-delivery/deploying/)
 - [Documenting technical decisions](/project-delivery/documenting-technical-decisions/)
@@ -43,6 +47,7 @@ support our clients and build great software!
 ## Personal development
 
 - [Review and 1:1s](/personal-development/reviews/)
+- [Time for us](/personal-development/time-for-us)
 - [Personal development plan](/personal-development/personal-development-plan/)
 
 ## Team member benefits
