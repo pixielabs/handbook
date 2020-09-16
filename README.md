@@ -7,72 +7,72 @@ support our clients and build great software!
 
 ## Working at Pixie Labs
 
-- [When and where we work](/working-at-pixie-labs/when-and-where-we-work)
-- [Self-scheduling](/working-at-pixie-labs/self-scheduling)
-- [Friday Kicks](/working-at-pixie-labs/friday-kicks)
-- [Mental health](/working-at-pixie-labs/mental-health)
-- [Pay review](/working-at-pixie-labs/pay-review)
-- [Attending conferences](/working-at-pixie-labs/attending-conferences)
-- [Security](/working-at-pixie-labs/security)
-- [Tools for teamwork](/working-at-pixie-labs/tools)
-- [Writing style](/working-at-pixie-labs/writing-style)
+- [When and where we work](/working-at-pixie-labs/when-and-where-we-work.md)
+- [Self-scheduling](/working-at-pixie-labs/self-scheduling.md)
+- [Friday Kicks](/working-at-pixie-labs/friday-kicks.md)
+- [Mental health](/working-at-pixie-labs/mental-health.md)
+- [Pay review](/working-at-pixie-labs/pay-review.md)
+- [Attending conferences](/working-at-pixie-labs/attending-conferences.md)
+- [Security](/working-at-pixie-labs/security.md)
+- [Tools for teamwork](/working-at-pixie-labs/tools.md)
+- [Writing style](/working-at-pixie-labs/writing-style.md)
 
 ## Project management
 
-- [Estimating a project](/project-management/estimating)
-- [Working with designers](/project-management/working-with-designers)
-- [Beginning and ending projects](/project-management/beginning-and-ending)
-- [Client onboarding](/project-management/client-onboarding)
-- [Project delivery metrics](/project-management/project-delivery-metrics)
+- [Estimating a project](/project-management/estimating.md)
+- [Working with designers](/project-management/working-with-designers.md)
+- [Beginning and ending projects](/project-management/beginning-and-ending.md)
+- [Client onboarding](/project-management/client-onboarding.md)
+- [Project delivery metrics](/project-management/project-delivery-metrics.md)
 
 ## Project delivery
 
-- [Priorities](/project-delivery/priorities)
-- [General Dos and Donts](/project-delivery/general-dos-donts)
-- [Style guidelines](/project-delivery/style-guidelines)
-- [Tools for development](/project-delivery/tools)
-- [Testing](/project-delivery/testing)
-- [Reviews](/project-delivery/reviews)
-- [Deploying](/project-delivery/deploying)
-- [Documenting technical decisions](/project-delivery/documenting-technical-decisions)
+- [Priorities](/project-delivery/priorities.md)
+- [General Dos and Donts](/project-delivery/general-dos-donts.md)
+- [Style guidelines](/project-delivery/style-guidelines.md)
+- [Tools for development](/project-delivery/tools.md)
+- [Testing](/project-delivery/testing.md)
+- [Reviews](/project-delivery/reviews.md)
+- [Deploying](/project-delivery/deploying.md)
+- [Documenting technical decisions](/project-delivery/documenting-technical-decisions.md)
 
 ## Ongoing support
 
-- [Types of support](/ongoing-support/types-of-support)
-- [Support processes](/ongoing-support/support-processes)
-- [Debugging](/ongoing-support/debugging)
-- [Alerts](/ongoing-support/alerts)
+- [Types of support](/ongoing-support/types-of-support.md)
+- [Support processes](/ongoing-support/support-processes.md)
+- [Debugging](/ongoing-support/debugging.md)
+- [Alerts](/ongoing-support/alerts.md)
 
 ## Personal development
 
-- [Review and 1:1s](/personal-development/reviews)
-- [Time for us](/personal-development/time-for-us)
-- [Personal development plan](/personal-development/personal-development-plan)
+- [Review and 1:1s](/personal-development/reviews.md)
+- [Time for us](/personal-development/time-for-us.md)
+- [Personal development plan](/personal-development/personal-development-plan.md)
 
 ## Team member benefits
 
-- [Pay](/team-member-benefits/pay)
-- [Holidays and time off](/team-member-benefits/holidays)
-- [Meeting up with team members](/team-member-benefits/meeting-with-team-members)
-- [Private healthcare](/team-member-benefits/private-healthcare)
-- [Equipment budget](/team-member-benefits/equipment-budget)
-- [Training budget](/team-member-benefits/training-budget)
-- [Recruitment bonus](/team-member-benefits/recruitment-bonus)
-- [New business bonus](/team-member-benefits/new-business-bonus)
-- [Company pension](/team-member-benefits/company-pension)
-- [Cycle to work scheme](/team-member-benefits/cycle-to-work-scheme)
-- [Interest-free season ticket loan](/team-member-benefits/season-ticket-loan)
+- [Pay](/team-member-benefits/pay.md)
+- [Holidays and time off](/team-member-benefits/holidays.md)
+- [Meeting up with team members](/team-member-benefits/meeting-with-team-members.md)
+- [Private healthcare](/team-member-benefits/private-healthcare.md)
+- [Equipment budget](/team-member-benefits/equipment-budget.md)
+- [Training budget](/team-member-benefits/training-budget.md)
+- [Recruitment bonus](/team-member-benefits/recruitment-bonus.md)
+- [New business bonus](/team-member-benefits/new-business-bonus.md)
+- [Company pension](/team-member-benefits/company-pension.md)
+- [Cycle to work scheme](/team-member-benefits/cycle-to-work-scheme.md)
+- [Interest-free season ticket loan](/team-member-benefits/season-ticket-loan.md)
 
 ## Recruitment
 
-- [Interview process](/recruitment/interview-process)
-- [Onboarding](/recruitment/onboarding)
+- [Interview process](/recruitment/interview-process.md)
+- [Onboarding](/recruitment/onboarding.md)
 
 ## Company policies and statements
 
-- [Equality policy](/policies-and-statements/equality-policy)
-- [Health and safety policy](/policies-and-statements/health-and-safety-policy)
-- [Sickness and absence policy](/policies-and-statements/sickness-and-absence-policy)
+- [Equality policy](/policies-and-statements/equality-policy.md)
+- [Health and safety policy](/policies-and-statements/health-and-safety-policy.md)
+- [Sickness and absence policy](/policies-and-statements/sickness-and-absence-policy.md)
 
 ## License
 
