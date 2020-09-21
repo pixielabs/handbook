@@ -43,4 +43,4 @@ We use [Slack](https://slack.com/) for day-to-day communication,
 [Zoom](https://zoom.us/) for video calls, and [Front](https://frontapp.com/) for
 emails. Front is a key part of how we support our clients, as it enables us to
 efficiently handle support queries via a shared inbox. See our guide on
-[Support processes](../ongoing-support/support-processes.md).
+[Support processes](../ongoing-support/2-support-processes.md).
