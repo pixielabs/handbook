@@ -37,8 +37,8 @@ This helps us avoid bottlenecks and keep our clients happy.
 If we discover something is wrong primarily from a client emailing us, we have
 failed. We should already be aware of, or investigating, an issue before our
 clients contact us to say they’ve spotted something is up. See our guides on
-[Support Processes](../ongoing-support/2-support-processes.md) and
-[Alerts](../ongoing-support/4-alerts.md).
+[Support Processes](../ongoing-support/02-support-processes.md) and
+[Alerts](../ongoing-support/04-alerts.md).
 
 ## Things we can sacrifice
 
