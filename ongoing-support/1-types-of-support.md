@@ -3,14 +3,22 @@
 Support time falls under one of four categories:
 
 1. **Critical support** which covers responding to high impact issues which
-  affects all users and where no workaround exists.
-2. **Consulting** which covers phone calls, emails, research and meetings to
-  discuss the project with the client. It also covers non-critical but important
-  bug fixes.
+   affects all users and where no workaround exists.
+2. **Consulting** which covers most phone calls, emails, research and meetings 
+   to discuss the project with the client. It also covers non-critical but
+   important bug fixes.
 3. **Development** which covers smaller pieces of ad-hoc development outside of
-  sprints.
+   sprints.
 4. **Consultancy (pro-bono)** which includes any non-critical internal work done
-  under our own steam.
+   under our own steam.
+
+Additionally, there are a couple of categories of support work that we pull
+out more specifically than just **Consulting**:
+
+1. **Planning and project management** which specifically covers when we use 
+   support time to work with the client on scoping out another piece of work.
+2. **Client management** which covers higher-level strategic work typically
+   undertaken by the MD.
 
 ## Critical support
 Some examples of situations that would be classified as critical support are:
@@ -23,15 +31,17 @@ Some examples of situations that would be classified as critical support are:
 
 ## Consulting
 Support time is considered consulting if the time spent provides value to the
-client. That might be a phone call or meeting to discuss future plans, or
-responding to and investigating queries like:
+client. That might be a phone call, or responding to and investigating queries
+like:
 
 - My customer can’t redeem a gift code.
 - Does this page look wrong to you?
 - I can’t use feature x
 - One of my customers can’t submit a job form.
-- How long would it take to build feature y?
-- I have a new problem I need solving that I want to discuss.
+
+Where consulting is more focused on **Planning and project management**, it
+should come under that category instead. When consulting is more about
+higher-level strategic work, it should come under **Client management** instead.
 
 ## Development
 This is smaller pieces of ad-hoc development on the project completed outside of
