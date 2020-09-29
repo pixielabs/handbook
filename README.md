@@ -7,72 +7,72 @@ support our clients and build great software!
 
 ## Working at Pixie Labs
 
-- [When and where we work](/working-at-pixie-labs/01-when-and-where-we-work.md)
-- [Self-scheduling](/working-at-pixie-labs/02-self-scheduling.md)
-- [Friday Kicks](/working-at-pixie-labs/03-friday-kicks.md)
-- [Mental health](/working-at-pixie-labs/04-mental-health.md)
-- [Pay review](/working-at-pixie-labs/05-pay-review.md)
-- [Attending conferences](/working-at-pixie-labs/06-attending-conferences.md)
-- [Security](/working-at-pixie-labs/07-security.md)
-- [Tools for teamwork](/working-at-pixie-labs/08-tools.md)
-- [Writing style](/working-at-pixie-labs/09-writing-style.md)
+- [When and where we work](/01-working-at-pixie-labs/01-when-and-where-we-work.md)
+- [Self-scheduling](/01-working-at-pixie-labs/02-self-scheduling.md)
+- [Friday Kicks](/01-working-at-pixie-labs/03-friday-kicks.md)
+- [Mental health](/01-working-at-pixie-labs/04-mental-health.md)
+- [Pay review](/01-working-at-pixie-labs/05-pay-review.md)
+- [Attending conferences](/01-working-at-pixie-labs/06-attending-conferences.md)
+- [Security](/01-working-at-pixie-labs/07-security.md)
+- [Tools for teamwork](/01-working-at-pixie-labs/08-tools.md)
+- [Writing style](/01-working-at-pixie-labs/09-writing-style.md)
 
 ## Project management
 
-- [Estimating a project](/project-management/01-estimating.md)
-- [Working with designers](/project-management/02-working-with-designers.md)
-- [Beginning and ending projects](/project-management/03-beginning-and-ending.md)
-- [Client onboarding](/project-management/04-client-onboarding.md)
-- [Project delivery metrics](/project-management/05-project-delivery-metrics.md)
+- [Estimating a project](/02-working-at-pixie-labs/01-estimating.md)
+- [Working with designers](/02-working-at-pixie-labs/02-working-with-designers.md)
+- [Beginning and ending projects](/02-working-at-pixie-labs/03-beginning-and-ending.md)
+- [Client onboarding](/02-working-at-pixie-labs/04-client-onboarding.md)
+- [Project delivery metrics](/02-working-at-pixie-labs/05-project-delivery-metrics.md)
 
 ## Project delivery
 
-- [Priorities](/project-delivery/01-priorities.md)
-- [General Dos and Donts](/project-delivery/02-general-dos-donts.md)
-- [Style guidelines](/project-delivery/003-style-guidelines.md)
-- [Tools for development](/project-delivery/04-tools.md)
-- [Testing](/project-delivery/05-testing.md)
-- [Reviews](/project-delivery/06-reviews.md)
-- [Deploying](/project-delivery/07-deploying.md)
-- [Documenting technical decisions](/project-delivery/08-documenting-technical-decisions.md)
+- [Priorities](/03-project-delivery/01-priorities.md)
+- [General Dos and Donts](/03-project-delivery/02-general-dos-donts.md)
+- [Style guidelines](/03-project-delivery/003-style-guidelines.md)
+- [Tools for development](/03-project-delivery/04-tools.md)
+- [Testing](/03-project-delivery/05-testing.md)
+- [Reviews](/03-project-delivery/06-reviews.md)
+- [Deploying](/03-project-delivery/07-deploying.md)
+- [Documenting technical decisions](/03-project-delivery/08-documenting-technical-decisions.md)
 
 ## Ongoing support
 
-- [Types of support](/ongoing-support/01-types-of-support.md)
-- [Support processes](/ongoing-support/02-support-processes.md)
-- [Debugging](/ongoing-support/03-debugging.md)
-- [Alerts](/ongoing-support/04-alerts.md)
+- [Types of support](/04-ongoing-support/01-types-of-support.md)
+- [Support processes](/04-ongoing-support/02-support-processes.md)
+- [Debugging](/04-ongoing-support/03-debugging.md)
+- [Alerts](/04-ongoing-support/04-alerts.md)
 
 ## Personal development
 
-- [Review and 1:1s](/personal-development/01-reviews.md)
-- [Time for us](/personal-development/02-time-for-us.md)
-- [Personal development plan](/personal-development/03-personal-development-plan.md)
+- [Review and 1:1s](/05-personal-development/01-reviews.md)
+- [Time for us](/05-personal-development/02-time-for-us.md)
+- [Personal development plan](/05-personal-development/03-personal-development-plan.md)
 
 ## Team member benefits
 
-- [Pay](/team-member-benefits/01-pay.md)
-- [Holidays and time off](/team-member-benefits/02-holidays.md)
-- [Meeting up with team members](/team-member-benefits/03-meeting-with-team-members.md)
-- [Private healthcare](/team-member-benefits/04-private-healthcare.md)
-- [Equipment budget](/team-member-benefits/05-equipment-budget.md)
-- [Training budget](/team-member-benefits/06-training-budget.md)
-- [Recruitment bonus](/team-member-benefits/07-recruitment-bonus.md)
-- [New business bonus](/team-member-benefits/08-new-business-bonus.md)
-- [Company pension](/team-member-benefits/09-company-pension.md)
-- [Cycle to work scheme](/team-member-benefits/10-cycle-to-work-scheme.md)
-- [Interest-free season ticket loan](/team-member-benefits/11-season-ticket-loan.md)
+- [Pay](/06-personal-development/01-pay.md)
+- [Holidays and time off](/06-personal-development/02-holidays.md)
+- [Meeting up with team members](/06-personal-development/03-meeting-with-team-members.md)
+- [Private healthcare](/06-personal-development/04-private-healthcare.md)
+- [Equipment budget](/06-personal-development/05-equipment-budget.md)
+- [Training budget](/06-personal-development/06-training-budget.md)
+- [Recruitment bonus](/06-personal-development/07-recruitment-bonus.md)
+- [New business bonus](/06-personal-development/08-new-business-bonus.md)
+- [Company pension](/06-personal-development/09-company-pension.md)
+- [Cycle to work scheme](/06-personal-development/10-cycle-to-work-scheme.md)
+- [Interest-free season ticket loan](/06-personal-development/11-season-ticket-loan.md)
 
 ## Recruitment
 
-- [Interview process](/recruitment/01-interview-process.md)
-- [Onboarding](/recruitment/02-onboarding.md)
+- [Interview process](/07-recruitment/01-interview-process.md)
+- [Onboarding](/07-recruitment/02-onboarding.md)
 
 ## Company policies and statements
 
-- [Equality policy](/policies-and-statements/01-equality-policy.md)
-- [Health and safety policy](/policies-and-statements/02-health-and-safety-policy.md)
-- [Sickness and absence policy](/policies-and-statements/03-sickness-and-absence-policy.md)
+- [Equality policy](/08-policies-and-statements/01-equality-policy.md)
+- [Health and safety policy](/08-policies-and-statements/02-health-and-safety-policy.md)
+- [Sickness and absence policy](/08-policies-and-statements/03-sickness-and-absence-policy.md)
 
 ## License
 

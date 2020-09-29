@@ -6,7 +6,7 @@ Use GitHub for all code, whether public, private or for a client.
 ## Trello
 We use [Trello](https://trello.com) for all kinds of lists. Some projects are
 managed on Trello, but mostly it’s for blog post ideas,
-[Friday Kicks](../working-at-pixie-labs/03-friday-kicks.md) ideas, and general
+[Friday Kicks](../01-working-at-pixie-labs/03-friday-kicks.md) ideas, and general
 housekeeping tasks.
 
 ## Pivotal Tracker
@@ -15,7 +15,7 @@ requiring a more rigid sprint structure than what can be provided by Trello. It
 provides automated analytics around estimates, deadlines, story points, epics
 etc.
 
-See 'Sprinting' in our [Tools for teamwork](../working-at-pixie-labs/08-tools.md)
+See 'Sprinting' in our [Tools for teamwork](../01-working-at-pixie-labs/08-tools.md)
 guide for more detail on how we use Pivotal Tracker.
 
 ## GitHub Actions
