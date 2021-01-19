@@ -19,6 +19,10 @@
 - Never, except with prior approval, pull down a production database on to your
   own machine.
 - Always enable 2FA if it is available. Store the OTP in 1Password.
+- Regularly (once a month) check permissions across key accounts e.g. Google,
+  calendars, third-party applications (e.g. oAuth apps). Build up a list of
+  accounts that you need to check this for. This is good practice for personal
+  accounts (e.g. social media) too.
 
 ## Passwords
 - You must use [1Password](https://1password.com/) for Pixie Labs-related
