@@ -22,10 +22,10 @@ We haven't yet settled on a _de jure_ load testing tool, but we have some
 options.
 
 ### JMeter
-[JMeter](https://jmeter.apache.org/load-testing tools. We’re exploring using
-[ruby-jmeter](http://flood-io.github.io/ruby-jmeter/) - a tool for writing load
-test plans in Ruby. ruby-meter allows you to define your tests programmatically,
-generate test plans and load these in the JMeter GUI to view results.
+We’re exploring using [ruby-jmeter](http://flood-io.github.io/ruby-jmeter/) -
+a tool for writing load test plans in Ruby. ruby-meter allows you to define
+your tests programmatically, generate test plans and load these in the JMeter
+GUI to view results.
 
 Crucially, ruby-jmeter allows you to extract variables from the response
 (using regex or xpath), for example the CSRF token for submitting data via
