@@ -18,7 +18,7 @@ changeable and what is fixed. This should inform the designs. For example, if a
 nav bar has a fixed number of links then designing the nav bar is relatively
 straightforward. However, if the nav bar has a variable number of links based on
 multiple app states, we need to consider how the nav bar will look with the
-minimum number of links and the maximum.Is the design still functional at the
+minimum number of links and the maximum. Is the design still functional at the
 limits? Is it still aesthetically pleasing?
 
 Fickle content is highlighted to the designer before they start work, and is

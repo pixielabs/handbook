@@ -115,6 +115,7 @@ continuous integration setup.
 ## Visual testing
 We use visual testing to take screenshots of applications at certain parts of
 user journeys in order to quickly validate that we’ve not introduced any visual
-regressions and to speed up QA. We’re evaluating
-[Percy by Browserstack](https://percy.io/) for this as it integrates very easily
-with Rails and Capybara.
+regressions and to speed up QA.
+
+We use [Percy by Browserstack](https://percy.io/) for visual testing.
+It integrates nicely with Rails and Capybara.

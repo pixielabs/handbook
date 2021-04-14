@@ -11,6 +11,6 @@ slow process. Including Sprint 0 makes the team feel as though they're always
 playing catch up.
 
 ## Kick-out
-We finish a project with a sprint long feature freeze, meaning we stop adding
-features. We use this time to fix any bugs, optimise inefficient code, tackle
-technical debt and ensure the project is ready for user testing.
+We try to finish a project with a sprint long feature freeze, meaning we stop
+adding features. We use this time to fix any bugs, optimise inefficient code,
+tackle technical debt and ensure the project is ready for user testing.
