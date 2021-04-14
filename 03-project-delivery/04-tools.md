@@ -18,10 +18,20 @@ etc.
 See 'Sprinting' in our [Tools for teamwork](../01-working-at-pixie-labs/08-tools.md)
 guide for more detail on how we use Pivotal Tracker.
 
-## GitHub Actions
-We use [GitHub Actions](https://github.com/features/actions) for continuous
+## Semaphore
+We use [Semaphore](https://semaphoreci.com) for continuous
 integration. It can also be used for continuous deployment, but usually Heroku
-takes care of that. GitHub Actions doesn't charge per seat, only for build time.
+takes care of that.
+
+Semaphore is great because it has straightforward syntax, a good UI, and support
+for scaling up available resources. A fast build equals fast development.
+
+Some older projects are still running on GitHub Actions which is OK, but new
+projects should use Semaphore where possible.
+
+For projects that would benefit from lots of test parallelism, we use 
+[Knapsack Pro](https://knapsackpro.com) to efficient queue up parallel builds.
+We've had lots of success combining Semaphore with Knapsack Pro. 
 
 ## Codecov
 [Codecov](https://codecov.io/) automatically reports code coverage on pull
