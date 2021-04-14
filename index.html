@@ -16,6 +16,14 @@
   <style>
     :root {
       --base-font-family: Lato, sans-serif;
+
+      --theme-hue       : 162;
+      --theme-saturation: 51%;
+      --theme-lightness : 46%;
+
+      --cover-blockquote-color: #fff;
+
+      --base-font-size       : 18px;
     }
   </style>
 
@@ -27,6 +35,8 @@
     window.$docsify = {
       coverpage: true,
       loadSidebar: true,
+      mergeNavbar: true,
+      auto2top: true,
       subMaxLevel: 3,
       name: 'Handbook',
       repo: 'https://github.com/pixielabs/handbook'
