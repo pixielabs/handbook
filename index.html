@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Pixie Labs Handbook</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <!-- Font -->
+  <link rel="preconnect" href="https://fonts.gstatic.com"> 
+  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;1,100;1,300;1,400;1,700&display=swap" rel="stylesheet">
+  <!-- Theme -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+  <!-- Custom theme styles
+       <https://jhildenbiddle.github.io/docsify-themeable/#/customization?id=theme> -->
+  <style>
+    :root {
+      --base-font-family: Lato, sans-serif;
+
+      --theme-hue       : 162;
+      --theme-saturation: 51%;
+      --theme-lightness : 46%;
+
+      --cover-blockquote-color: #fff;
+
+      --base-font-size       : 18px;
+
+      --sidebar-width: 20rem;
+    }
+  </style>
+
+
+</head>
+<body>
+  <div id="app"></div>
+  <!-- Plugins -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+
+  <script>
+    window.$docsify = {
+      coverpage: true,
+      loadSidebar: true,
+      mergeNavbar: true,
+      auto2top: true,
+      subMaxLevel: 3,
+      name: 'Handbook',
+      repo: 'https://github.com/pixielabs/handbook',
+      plugins: [
+        EditOnGithubPlugin.create('https://github.com/pixielabs/handbook/blob/master/', null, 'Edit')
+      ]
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+</body>
+</html>
