@@ -20,10 +20,7 @@ is one reason why our customers keep coming back to us.
 - It should be done with as many of the development team as possible, ideally
   all of them, so everyone feels connected to the final estimates.
 - It takes a long time, but we’ve found it always pays off.
-- When we’re remote, we use [PlanningPoker.com](https://www.planningpoker.com/),
-  but we’re also working on our own version of Planning Poker for
-  our own project velocity estimation tool,
-  [Velocitaire](https://www.velocitaire.com/).
+- When we’re remote, we use [our Planning Poker tool](https://poker.velocitaire.com).
 
 ## Velocitaire
 - Once we've estimated story points using planning poker, we estimate our team's
