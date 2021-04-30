@@ -6,6 +6,16 @@ perpetually a work-in-progress, evolving as we grow and change as a company.
 
 If something seems to be missing, let’s have a chat!
 
+## Building the handbook
+
+The handbook is hosted on GitHub Pages and built using
+[docsify](https://docsify.js.org/#/). To run it locally:
+
+1. Clone down the repo.
+2. `npm i docsify-cli -g`.
+3. `docsify serve`.
+4. Visit [http://localhost:3000](http://localhost:3000).
+
 ## License
 
 This document is licensed under a [Creative Commons 1.0 Universal (CC0 1.0)
