@@ -9,6 +9,8 @@
 - Do configure your text editor to use LF newlines. This is default on almost
   all text editors on macOS and Linux, but on Windows some text editors are set
   up to use CRLF (also called ‘DOS format’) newlines.
+- Do configure your editor to [add a newline at the end of a file][newline].
+  Most editors enable this by default.
 - Do prefer one-off rake tasks for maintenance and migration over code in your
   database migrations.
 - Do loosely follow [TomDoc](http://tomdoc.org/) for commenting. Combine this
@@ -23,3 +25,6 @@
 ## Don'ts
 - Don't use Heroku Scheduler; it doesn't guarantee a run and we've had business
   critical jobs fail.
+  
+  
+[newline]: https://thoughtbot.com/blog/no-newline-at-end-of-file
