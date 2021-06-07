@@ -1,16 +1,43 @@
 # Working with designers
 
-## Design programs
-We don’t like to receive designs in Photoshop. Through experience, we have found
-that it is difficult for us to implement designs made in the program. Designs
-from [Sketch](https://www.sketch.com/) or [Figma](https://www.figma.com/) are
-much faster to implement.
+## Software preferences
+Through experience we've found it can be difficult for us to implement designs
+implemented in Photoshop or Illustrator. Our favourite app to receive designs
+in is [Sketch](https://www.sketch.com). Our second favourite is
+[Figma](https://www.figma.com) provided it's a fully paid up account.
 
 ## Mobile first
 It is very exciting for clients to see desktop designs, however we always push
 to have mobile designs first. We can adapt mobile views to desktop views
 quickly. The reverse is rarely true. Intuitively, working with less screen
 space is harder than working with more.
+
+## Breakpoints
+We build fluid websites, that is, websites that work well at every possible
+screen size and resolution. However it's not possible for designers to give
+us designs for every single resolution! When we implement designs, we make
+changes to the look and feel at the following breakpoints, so the more of
+these we receive in designs, the more accurately we can match the desired
+look & feel to the fluid design:
+
+ - Small: <640px
+ - Medium: <768px
+ - Large: <1024px
+ - XL: <1280px
+ - 2XL: <1536px
+ - 4K: >2560px
+
+We don't implement designs that only work at discrete breakpoints; we test them
+throughout every possible window size from 320px up to 2560px and beyond. But
+we pay special attention to the following points:
+
+ - Small mobile: 320px
+ - Medium mobile: 375px
+ - Large mobile: 425px
+ - Tablet: 768px
+ - Laptop: 1024px
+ - Large laptop: 1440px
+ - Desktop: 2560px
 
 ## Inconsistent content in designs
 Before thinking about designs, we consider what content in the project is
