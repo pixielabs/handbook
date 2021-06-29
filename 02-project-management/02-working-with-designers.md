@@ -28,7 +28,7 @@ look & feel to the fluid design:
  - 4K: >2560px
 
 We don't implement designs that only work at discrete breakpoints; we test them
-throughout every possible window size from 320px up to 2560px and beyond. But
+throughout every possible window size from 375px up to 2560px and beyond. But
 we pay special attention to the following points:
 
  - Small mobile: 375px
