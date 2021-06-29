@@ -31,9 +31,8 @@ We don't implement designs that only work at discrete breakpoints; we test them
 throughout every possible window size from 320px up to 2560px and beyond. But
 we pay special attention to the following points:
 
- - Small mobile: 320px
- - Medium mobile: 375px
- - Large mobile: 425px
+ - Small mobile: 375px
+ - Medium mobile: 425px
  - Tablet: 768px
  - Laptop: 1024px
  - Large laptop: 1440px
