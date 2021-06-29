@@ -20,12 +20,12 @@ changes to the look and feel at the following breakpoints, so the more of
 these we receive in designs, the more accurately we can match the desired
 look & feel to the fluid design:
 
- - Small: <640px
- - Medium: <768px
- - Large: <1024px
- - XL: <1280px
- - 2XL: <1536px
- - 4K: >2560px
+ - Tiny: Up to 640px
+ - Small: >640px
+ - Medium: >768px
+ - Large: >1024px
+ - XL: >1280px
+ - 2XL: >1536px
 
 We don't implement designs that only work at discrete breakpoints; we test them
 throughout every possible window size from 375px up to 2560px and beyond. But
