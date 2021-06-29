@@ -27,6 +27,11 @@ look & feel to the fluid design:
  - XL: >1280px
  - 2XL: >1536px
 
+Note that we strongly encourage that we are provided an additional design
+at a width larger than 1536px to make it clear which design elements should
+be constrained to 1536px and which should be full width/full bleed.
+
+## How we check our design implementation
 We don't implement designs that only work at discrete breakpoints; we test them
 throughout every possible window size from 375px up to 2560px and beyond. But
 we pay special attention to the following points:
