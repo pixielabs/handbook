@@ -43,7 +43,8 @@
 - If you use a personal device (e.g. your phone or a secondary machine) for
   anything related to Pixie Labs, that must also have total volume/device
   encryption enabled. If it doesn’t support that, don’t use it for
-  Pixie Labs-related activities.
+  Pixie Labs-related activities. You must also have a reasonably short screen
+  lock timer (at most two minutes).
   
 ## Code and data security
 - There are very few situations where you should commit credentials to code. Use
