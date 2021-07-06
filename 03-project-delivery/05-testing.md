@@ -1,6 +1,6 @@
 # Testing
 
-## Frontend testing
+## Automated testing
 In a monolithic Ruby on Rails application we test with Rspec, Capybara, and
 Chromedriver. For everything else, we use [Cypress](https://www.cypress.io/).
 
