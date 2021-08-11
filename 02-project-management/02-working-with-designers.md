@@ -43,6 +43,13 @@ we pay special attention to the following points:
  - Large laptop: 1440px
  - Desktop: 2560px
 
+## Colours and style guides
+We welcome style guides with standardised guidance on colours, margins etc.
+but a style guide is only useful if the designs adhere to it. Before designs
+are signed-off, we should check as a team that they conform to the style guide
+e.g. there are no non-standard colours and other design elements such as borders
+or repeated components are 100% consistent with the style guide.
+
 ## Inconsistent content in designs
 Before thinking about designs, we consider what content in the project is
 changeable and what is fixed. This should inform the designs. For example, if a
