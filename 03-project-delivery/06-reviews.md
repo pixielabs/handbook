@@ -13,6 +13,10 @@
   reduce the number of branches.
 - Use GitHub ‘assignees’ to indicate who should review your PR. Don’t use
   ‘reviewers’ because it doesn’t show up in the PR interface.
+- Before reviewing, consider self-reviewing using the suggestions below. You 
+  might catch some things before your reviewer does, which will reduce the
+  time to merge and the number of PR cycles, both metrics we strive to keep
+  low to help us move at pace.
 
 ## As a 'reviewer'
 - Be comfortale in passing the PR on to someone else for a second opinion,
