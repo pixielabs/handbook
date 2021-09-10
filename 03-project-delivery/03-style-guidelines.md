@@ -41,6 +41,38 @@ Layout/LineLength:
   Enabled: false
 ```
 
+And an `.overcommit.yml` that looks something like this:
+
+```yaml
+# Overcommit runs hooks automatically when committing, pushing etc.
+
+# Don't bother with any commit message checks
+CommitMsg:
+  ALL:
+    enabled: false
+
+PreCommit:
+  # Enable Rubocop
+  RuboCop:
+    enabled: true
+    on_warn: fail # Treat all warnings as failures
+    # Use bundled rubocop for consistency
+    command: ['bundle', 'exec', 'rubocop']
+
+  # Check for leftover merge conflicts
+  MergeConflicts:
+    enabled: true
+    description: 'Check for merge conflicts'
+    quiet: true
+    required_executable: 'grep'
+    flags: ['-IHn', "^<<<<<<<[ \t]"]
+
+# Do nothing post-checkout
+PostCheckout:
+  ALL:
+    enabled: false
+```
+
 ## JavaScript
 
 We don't have a particular style for JavaScript right now.
