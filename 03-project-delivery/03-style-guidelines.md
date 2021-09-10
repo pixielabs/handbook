@@ -79,3 +79,5 @@ your Gemfile. They should all be set to `require: false`.
 ## JavaScript
 
 We don't have a particular style for JavaScript right now.
+
+ - Use semicolons to terminate expressions.
