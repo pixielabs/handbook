@@ -69,3 +69,33 @@ bootstrap task (e.g. a rake task, if it’s a Ruby on Rails application) which w
 set up to run automatically using app.json. If the application has complicated
 user journeys, this task should also include setting up some predefined test
 users at different stages of the journey, for fast QA.
+
+## Pull request templates
+
+We use [pull request templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository)
+to help us remember the steps we need to do before and after submitting a PR.
+
+It's very straightforward. PR templates should speed us up, not slow us down.
+If they're slowing us down, we need to rethink the format.
+
+Currently, it looks like this:
+
+```markdown
+## Changes
+**Description of what you did**
+
+## Ticket
+**Insert link to Pivotal ticket here**
+
+## Before submitting have you:
+
+- [ ] Included a link to any relevant Pivotal Tracker ticket
+- [ ] Included links to Rollbar/Front conversations if this is a support issue
+
+## After submitting remember to:
+
+- [ ] Mark the Pivotal Tracker ticket as ready for review
+- [ ] Include the PR on the Pivotal Tracker ticket
+- [ ] Assign a single reviewer
+- [ ] Give an update on Slack - nudge the reviewer, let everyone know what you're going to do next.
+```
