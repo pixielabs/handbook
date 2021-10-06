@@ -36,7 +36,9 @@ presentations). Use [Dropbox](https://dropbox.com/) for everything else.
 
 It's really painful managing anything other than documents in Google Drive,
 e.g. assets, large files such as videos. It's also painful managing anything
-that Google Drive can't open such as Figma or Sketch files.
+that Google Drive can't open such as Figma or Sketch files. So in these
+situations, use Dropbox. Encourage clients to use Dropbox to share these
+kinds of files. Set up a shared Dropbox folder for them if necessary.
 
 ## Tracking time
 Use [Harvest](https://www.getharvest.com) to track your time. We track our time
