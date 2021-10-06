@@ -42,7 +42,10 @@ kinds of files. Set up a shared Dropbox folder for them if necessary.
 
 ## Tracking time
 Use [Harvest](https://www.getharvest.com) to track your time. We track our time
-so we know we are balancing our client projects correctly.
+so we know we are balancing our client projects correctly. Use
+[Forecast](https://forecastapp.com/) to see what projects you are
+booked on in the coming days and weeks. This allows you to effectively
+manage your time between projects.
 
 ## Communicating
 We use [Slack](https://slack.com/) for day-to-day communication,
