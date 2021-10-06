@@ -34,6 +34,10 @@ change it.
 Use Google Drive for documents (e.g. spreadsheets, word documents,
 presentations). Use [Dropbox](https://dropbox.com/) for everything else.
 
+It's really painful managing anything other than documents in Google Drive,
+e.g. assets, large files such as videos. It's also painful managing anything
+that Google Drive can't open such as Figma or Sketch files.
+
 ## Tracking time
 Use [Harvest](https://www.getharvest.com) to track your time. We track our time
 so we know we are balancing our client projects correctly.
