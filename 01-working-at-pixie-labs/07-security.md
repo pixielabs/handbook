@@ -50,7 +50,8 @@
 - There are very few situations where you should commit credentials to code. Use
   environment variables or Rails encrypted credentials.
 - Never, except with prior approval, pull down a production database on to your
-  own machine.
+  own machine. If you do need to, and it's approved, remove as much customer
+  data as possible.
 - Do not give third-party applications access to GitHub (e.g. via sign-in with 
   GitHub, oAuth, API access etc) without checking it's OK with someone else.
 - Do not share client code with anyone who is not a member of Pixie Labs.
