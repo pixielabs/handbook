@@ -53,3 +53,8 @@ We use [Slack](https://slack.com/) for day-to-day communication,
 emails. Front is a key part of how we support our clients, as it enables us to
 efficiently handle support queries via a shared inbox. See our guide on
 [Support processes](../04-ongoing-support/02-support-processes.md).
+
+We're evaluating using [Tandem](https://tandem.chat/) for more 
+serendipitous and low-friction communication and collaboration throughout the day.
+We've found this particularly effective for 'mixed' situations e.g. where
+some team members are remote and some are together in an office environment.
