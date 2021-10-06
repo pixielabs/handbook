@@ -11,8 +11,8 @@ We use [Rubocop](https://rubocop.org) and
 configuration that leans heavily on Shopify's configuration.
 
 We don't have a central place for our Rubocop and `overcommit` configuration
-right now, but you can pull it from another project. The `.rubocop.yml` looks
-something like this at the time of writing:
+right now, but you can pull it from another project, or from this handbook.
+The `.rubocop.yml` looks something like this:
 
 ```yaml
 inherit_gem:
@@ -75,6 +75,11 @@ PostCheckout:
 
 This requires adding `rubocop`, `rubocop-shopify` and `overcommit` to
 your Gemfile. They should all be set to `require: false`.
+
+We're considering adopting [rubocop-rspec](https://github.com/rubocop/rubocop-rspec)
+and a form of [The RSpec Style Guide](https://rspec.rubystyle.guide/). It
+broadly lines up with our _de facto_ style, but there's definitely
+improvements we could make.
 
 ## JavaScript
 
