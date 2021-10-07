@@ -5,7 +5,7 @@ engineer performance but rather as a health-check for our projects.
 
 ## Pull request cycle time
 
-**Target: 80% of pull requests in under 10 working hours**
+**Under 10 working hours**
 
 [Pull request cycle
 time](https://codeclimate.com/blog/software-engineering-cycle-time/) is the
@@ -21,7 +21,7 @@ identify areas of improvement. This could include:
 
 ## Pull request size
 
-**Target: 80% of pull requests in under 200 lines of code**
+**Under 200 lines of code**
 
 Not all PRs can be small, but small pull requests are easier to review, which
 helps keep the cycle time down. If pull requests are off target we should 
@@ -33,7 +33,7 @@ to ask include:
 
 ## Pull request time to review
 
-**Target: 80% of pull requests reviewed in under 4 working hours**
+**Review in under 4 working hours**
 
 No PR should be stuck without a review for more than half a day. This de-risks
 our work by ensuring we have plenty of time for review cycles, and helps keep
