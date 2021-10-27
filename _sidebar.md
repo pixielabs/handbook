@@ -10,6 +10,7 @@
   - [Beginning and ending projects](/02-project-management/03-beginning-and-ending.md)
   - [Project delivery metrics](/02-project-management/05-project-delivery-metrics.md)
   - [Doing a spike](/02-project-management/06-doing-a-spike.md)
+  - [Meetings](/02-project-management/07-meetings.md)
 
 - Project delivery
 
