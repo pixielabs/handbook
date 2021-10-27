@@ -50,6 +50,12 @@ are signed-off, we should check as a team that they conform to the style guide
 e.g. there are no non-standard colours and other design elements such as borders
 or repeated components are 100% consistent with the style guide.
 
+If we've already made a decision to use a certain style framework like
+[Tailwind](https://tailwindcss.com/) we should encourage the designer(s) to just
+use the colours available there, or to provide a colour scheme in _exactly the
+same structure_. We've found in the past that adding arbitrary colour schemes
+to Tailwind really restricts the power of Tailwind.
+
 ## Inconsistent content in designs
 Before thinking about designs, we consider what content in the project is
 changeable and what is fixed. This should inform the designs. For example, if a
