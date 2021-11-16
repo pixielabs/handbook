@@ -39,6 +39,11 @@ Style/MethodCallWithArgsParentheses:
 # indentation.
 Layout/LineLength:
   Enabled: false
+
+# We use {} for multi line blocks in tests
+Style/BlockDelimiters:
+  Exclude:
+    - "spec/**/*_spec.rb"
 ```
 
 And an `.overcommit.yml` that looks something like this:
