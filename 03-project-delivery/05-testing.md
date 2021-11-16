@@ -9,6 +9,17 @@ that doesn’t stub out any calls to APIs. Once you’ve established this is
 working, use stubs in tests for additional features and edge cases. There is no
 benefit in using/generating real data here.
 
+## Test suite performance
+Automated test suite runtime is one of the best leading metrics for high
+performing development teams, so we invest time and effort in lowering our
+test suite runtime. This includes:
+
+ - Using [SempahoreCI](https://semaphoreci.com/) because in our experience they
+   have good performing infrastructure with options to scale up to larger
+   CI workers.
+ - Using [Knapsack Pro](https://knapsackpro.com/) to run tests in parallel with
+   very little effort on our part.
+
 ## General performance testing
 Use [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) in
 development and in production (only for logged in developers) for checking page
