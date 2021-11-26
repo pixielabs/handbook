@@ -53,3 +53,28 @@ We also looked into:
 - [Netlify](https://www.netlify.com/) - We used to like Netlify but they
   increased their pricing and we had some real issues getting complex sites to
   build. We’ll be evaluating alternatives next time we build a static site.
+  
+# Our standard deployment process
+
+Most projects should be set up as follows:
+
+ - The `main` branch is connected via Heroku to automatically deploy the staging
+   application.
+ - The `production` branch will automatically deploy the production application.
+
+A deploy to production is then:
+
+1. Open a pull request from `main` to `production`. Title it with the date & 
+   'production deploy'. Detail in the PR description what is going to be 
+   deployed. Check through the diff for any tasks that need to be run
+   manually e.g. one-off rake tasks, and document them in the description too
+   so you don't forget.
+2. Let the project team know on Slack you're preparing a deploy.
+3. Wait for CI to pass the commit you're merging.
+4. Merge the PR.
+5. Wait for CI to pass the merge commit (you can watch this on GitHub).
+6. Once CI passes the merge commit, the deploy should start on Heroku and you
+   should see it on the Heroku dashboard for that app. Keep one eye on it.
+   
+Once deployment finishes, let the project team know it's live and run any 
+one-off tasks you documented at the start of the process.
