@@ -25,6 +25,7 @@
 ## Don'ts
 - Don't use Heroku Scheduler; it doesn't guarantee a run and we've had business
   critical jobs fail.
-  
+- Don't let `master`/`main` builds fail. If they do, ideally everyone should
+  stop what they're doing until it's passing again.
   
 [newline]: https://thoughtbot.com/blog/no-newline-at-end-of-file
