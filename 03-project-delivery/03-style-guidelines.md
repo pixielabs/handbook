@@ -44,6 +44,11 @@ Layout/LineLength:
 Style/BlockDelimiters:
   Exclude:
     - "spec/**/*_spec.rb"
+
+# Support 'redirect and return if y'
+# See <https://github.com/rubocop/rubocop/issues/1288>
+Style/AndOr:
+  EnforcedStyle: conditionals
 ```
 
 And an `.overcommit.yml` that looks something like this:
