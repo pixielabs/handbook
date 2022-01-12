@@ -17,7 +17,7 @@
   low to help us move at pace.
 
 ## As a 'reviewer'
-- Be comfortale in passing the PR on to someone else for a second opinion,
+- Be comfortable in passing the PR on to someone else for a second opinion,
   especially if you’re not confident merging it in. Remove yourself as the
   assignee and add the next person!
 - Code reviews can vary depending on the size and scale of the feature/fix.
