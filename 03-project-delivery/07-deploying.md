@@ -81,6 +81,8 @@ one-off tasks you documented at the start of the process.
 
 ### PR template
 
+This template is loosely based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
+
 ```
 _Delete any empty headings_
 
