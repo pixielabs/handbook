@@ -54,7 +54,7 @@ We also looked into:
   increased their pricing and we had some real issues getting complex sites to
   build. We’ll be evaluating alternatives next time we build a static site.
   
-# Our standard deployment process
+## Our standard deployment process
 
 Most projects should be set up as follows:
 
@@ -65,10 +65,10 @@ Most projects should be set up as follows:
 A deploy to production is then:
 
 1. Open a pull request from `main` to `production`. Title it with the date & 
-   'production deploy'. Detail in the PR description what is going to be 
-   deployed. Check through the diff for any tasks that need to be run
-   manually e.g. one-off rake tasks, and document them in the description too
-   so you don't forget.
+   'production deploy'. Use the template below. Detail in the PR description
+   what is going to be deployed. Check through the diff for any tasks that need
+   to be run manually e.g. one-off rake tasks, and document them in the
+   description too so you don't forget.
 2. Let the project team know on Slack you're preparing a deploy.
 3. Wait for CI to pass the commit you're merging.
 4. Merge the PR.
@@ -78,3 +78,30 @@ A deploy to production is then:
    
 Once deployment finishes, let the project team know it's live and run any 
 one-off tasks you documented at the start of the process.
+
+### PR template
+
+```
+_Delete any empty headings_
+
+### Added
+_New features._
+
+### Changed
+_Changes in existing functionality._
+
+### Deprecated
+_Soon-to-be removed features._
+
+### Removed
+_Now removed features._
+
+### Fixed
+_Any bug fixes._
+
+### Security
+_Any vulnerabilities fixed_
+
+### Deployment notes
+_Any steps that need to be performed as part of deployment e.g. rake tasks_
+```
