@@ -3,7 +3,7 @@
 [We also wrote about this on our blog.](https://blog.pixielabs.io/how-we-review-code-ba43462e1e87)
 
 ## As a 'reviewee'
-The aim is to guide a reviewer through you thought processes and make reviewing
+The aim is to guide a reviewer through your thought processes and make reviewing
 as easy as possible.  
 PRs can also provide a history of decision making, we may look back at a PR
 some time in the future so provide clear context.  
