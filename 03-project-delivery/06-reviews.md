@@ -23,7 +23,7 @@ your level, it’s how we improve as a team.
   time to merge and the number of PR cycles, both metrics we strive to keep
   low to help us move at pace.
   - Leaving comments on your own PR allows the reviewer to understand your thought
-  process and keeps questions to a minimum.
+  process and reduces the number of review cycles.
   - Leave questions for the reviewer about things you aren't sure of.
 - Put up a draft PR to get early feedback, it prevents us going down rabbit holes.
 - Provide context about why the work has been done.
