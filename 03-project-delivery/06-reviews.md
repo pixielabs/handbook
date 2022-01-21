@@ -3,18 +3,48 @@
 [We also wrote about this on our blog.](https://blog.pixielabs.io/how-we-review-code-ba43462e1e87)
 
 ## As a 'reviewee'
+The aim is to guide a reviewer through you thought processes and make reviewing
+as easy as possible.  
+PRs can also provide a history of decision making, we may look back at a PR
+some time in the future so provide clear context.  
+It’s important to be good at receiving feedback & collaborating no matter
+your level, it’s how we improve as a team.  
+
 - Your code should always be reviewed by someone else before being accepted.
-- Generally code you commit should be placed on a branch, rather than committed
+- Code you commit should be placed on a branch, rather than committed
   directly to master.
 - We don’t have a naming convention for branches. Just call it something
   sensible that describes what it is.
 - Aim for smaller branches, rather than larger branches. If you have branches
   depending on each other though, this is a sign you need to get code merged or
   reduce the number of branches.
-- Before reviewing, consider self-reviewing using the suggestions below. You 
-  might catch some things before your reviewer does, which will reduce the
+- Before reviewing, consider self-reviewing using the suggestions below.
+  - You might catch some things before your reviewer does, which will reduce the
   time to merge and the number of PR cycles, both metrics we strive to keep
   low to help us move at pace.
+  - Leaving comments on your own PR allows the reviewer to understand your thought
+  process and keeps questions to a minimum.
+  - Leave questions for the reviewer about things you aren't sure of.
+- Put up a draft PR to get early feedback, it prevents us going down rabbit holes.
+- Provide context about why the work has been done.
+  - Including a link to the ticket is good.
+  - Pulling out relevant tasks or ACs into the description is better.
+- Explain how to run code if needed.
+  - Explain how to set up, steps to take when testing and the expected behaviour.
+- Take feedback on board.
+  - Don’t be too defensive of the code, we're a team and collaboration
+  makes our code better.
+- Assume the reviewer's tone is a friendly/ curious one.
+  - Written feedback is often read in an overly critical tone in our heads.
+  - We’re all friends here. How would the reviewer be saying this to you in person?
+- Try to respond to every comment and resolve them as you go.
+  - Link to specific commits - "Well spotted! Done in 123987"
+- Provide links and learning resources that you found useful so the reviewer
+can also benefit from your research.
+  - If you have needed to look something up, the reviewer might too.
+  - Put links in the description to tutorials & articles that helped you.
+  - Leave links to useful documentation as comments in the code and future devs
+  will also benefit.
 
 ## As a 'reviewer'
 - Be comfortable in passing the PR on to someone else for a second opinion,
@@ -26,7 +56,39 @@
 - Prefer to involve the person at your desk/on a Zoom call, rather than just
   communicating backwards and forwards over pull request comments. But
   ultimately you be the judge!
+  - Post a comment to summarize any discussions that took place.
 - Delete the branch after merging the pull request.
+- Sharing knowledge avoids silos and any comment is a learning opportunity
+  for both so ask questions.
+- Be humble.
+  - Assume the reviewee has the best understanding of the problems being
+  solved, they’ve put a lot of thought and work into it.
+  - Trust in their decisions but ask for clarification.
+- Be aware that written feedback is often read in an overly critical tone.
+  - Prefer open-ended questions over making strong or opinionated statements.
+  - Prefer we instead of you.
+    - "-another strategy- would be better here."
+    - better: "We should use -another strategy- because -a reason-."
+    - great: "Could we use -another strategy- for -a reason-? Why did you chose
+    this way?"
+- If there’s a lot of feedback:
+  - Consider what are the must dos and what, if anything, can be left out to
+  avoid over-facing someone & keep us progessing.
+    - Must dos - the important stuff. Highlight them in a change request.
+    - Should dos - make a task/ticket if anything can be done as later.
+    - Could dos - "We could do -suggestion-. Not important, you decide."
+- Check the [handbook](./03-style-guidelines.md) for things that are to do with
+code style.
+  - We should be on the same page with our code style, if not, prefer to discuss as
+  a team rather than between individuals on PR’s.
+  - If it’s not in the handbook or you disagree with something, bring it up in
+  retro & then update the handbook once we have agreement.
+  - As time goes on we'll all know what's expected and these comments will
+  disappear from PRs - speed bonus :D
+- Do give praise for good work :)
+  - Highlight things you liked
+  - Highlight things you’ve learned
+  - ::taco::
 
 ## Things to look for in a code review
 - Code should be tested. CodeCov should say that the test coverage is increasing
@@ -51,6 +113,7 @@
 - Rails: Does brakeman report any new security issues?
 - Asset pipeline JavaScript: Have any ES6-isms snuck in e.g. const/let, arrow
   functions? This is OK if the JS is being compiled by Webpacker or similar.
+- React: Are there any missing PropTypes?
 
 ## Review apps
 We use Review Apps on Heroku to quickly spin up disposable Heroku apps for pull
