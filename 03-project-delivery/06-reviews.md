@@ -88,7 +88,7 @@ code style.
 - Do give praise for good work :)
   - Highlight things you liked
   - Highlight things you’ve learned
-  - ::taco::
+  - Give an appreciation ::taco:: in #appreciations on Slack!
 
 ## Things to look for in a code review
 - Code should be tested. CodeCov should say that the test coverage is increasing
