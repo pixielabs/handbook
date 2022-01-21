@@ -7,8 +7,8 @@ The aim is to guide a reviewer through your thought processes and make reviewing
 as easy as possible.  
 PRs can also provide a history of decision making, we may look back at a PR
 some time in the future so provide clear context.  
-It’s important to be good at receiving feedback & collaborating no matter
-your level, it’s how we improve as a team.  
+A willingness to listen to and act upon feedback is super important no
+matter your level; it's a key part of how we improve as a team.  
 
 - Your code should always be reviewed by someone else before being accepted.
 - Code you commit should be placed on a branch, rather than committed
@@ -113,7 +113,7 @@ code style.
 - Rails: Does brakeman report any new security issues?
 - Asset pipeline JavaScript: Have any ES6-isms snuck in e.g. const/let, arrow
   functions? This is OK if the JS is being compiled by Webpacker or similar.
-- React: Are there any missing PropTypes?
+- React: Are there any missing [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)?
 
 ## Review apps
 We use Review Apps on Heroku to quickly spin up disposable Heroku apps for pull
