@@ -25,7 +25,7 @@ your level, it’s how we improve as a team.
   - Leaving comments on your own PR allows the reviewer to understand your thought
   process and reduces the number of review cycles.
   - Leave questions for the reviewer about things you aren't sure of.
-- Put up a draft PR to get early feedback, it prevents us going down rabbit holes.
+- Put up a draft PR to get early feedback, it helps us avoid falling down rabbit holes.
 - Provide context about why the work has been done.
   - Including a link to the ticket is good.
   - Pulling out relevant tasks or acceptance criteria into the description is better.
