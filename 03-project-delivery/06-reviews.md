@@ -28,7 +28,7 @@ your level, it’s how we improve as a team.
 - Put up a draft PR to get early feedback, it prevents us going down rabbit holes.
 - Provide context about why the work has been done.
   - Including a link to the ticket is good.
-  - Pulling out relevant tasks or ACs into the description is better.
+  - Pulling out relevant tasks or acceptance criteria into the description is better.
 - Explain how to run code if needed.
   - Explain how to set up, steps to take when testing and the expected behaviour.
 - Take feedback on board.
