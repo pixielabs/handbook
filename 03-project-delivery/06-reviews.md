@@ -162,3 +162,9 @@ Currently, it looks like this:
 - [ ] Assign a single reviewer
 - [ ] Give an update on Slack - nudge the reviewer, let everyone know what you're going to do next.
 ```
+
+## Project delivery metrics
+
+The [project delivery metrics](../02-project-management/05-project-delivery-metrics.md)
+section of the handbook contains details about pull request cycle time, size,
+time to review.
