@@ -79,7 +79,7 @@ can also benefit from your research.
     - Could dos - "We could do -suggestion-. Not important, you decide."
 - Check the [handbook](./03-style-guidelines.md) for things that are to do with
 code style.
-  - We should be on the same page with our code style, if not, prefer to discuss as
+  - We should be on the same page with our code style, if not, we should discuss as
   a team rather than between individuals on PR’s.
   - If it’s not in the handbook or you disagree with something, bring it up in
   retro & then update the handbook once we have agreement.
