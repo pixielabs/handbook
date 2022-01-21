@@ -80,7 +80,7 @@ can also benefit from your research.
 - Check the [handbook](./03-style-guidelines.md) for things that are to do with
 code style.
   - We should be on the same page with our code style, if not, we should discuss as
-  a team rather than between individuals on PR’s.
+  a team rather than between individuals on PRs.
   - If it’s not in the handbook or you disagree with something, bring it up in
   retro & then update the handbook once we have agreement.
   - As time goes on we'll all know what's expected and these comments will
