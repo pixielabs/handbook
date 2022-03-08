@@ -94,5 +94,6 @@ improvements we could make.
 ## JavaScript
 
 We don't have a particular style for JavaScript right now.
-
- - Use semicolons to terminate expressions.
+Use [JavaScript Standard Style](https://standardjs.com/) to resolve bike-shed debates.
+Specifically [semistandard](https://github.com/standard/semistandard) because we
+use semicolons to terminate expressions.
