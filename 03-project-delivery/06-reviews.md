@@ -43,7 +43,7 @@ matter your level; it's a key part of how we improve as a team.
 can also benefit from your research.
   - If you needed to look something up, the reviewer might too.
   - Put links in the description to tutorials and articles that helped you.
-  - Leave links to useful documentation as comments in the code and future devs
+  - Leave links to useful documentation as comments in the code so future developers
   will also benefit.
 
 ## As a 'reviewer'
