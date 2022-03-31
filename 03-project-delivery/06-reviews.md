@@ -67,7 +67,7 @@ can also benefit from your research.
 - Be aware that written feedback is often read in an overly critical tone.
   - Prefer open-ended questions over making strong or opinionated statements.
   - Prefer we instead of you.
-    - "-another strategy- would be better here."
+    - bad: "-another strategy- would be better here."
     - better: "We should use -another strategy- because -a reason-."
     - great: "Could we use -another strategy- for -a reason-? Why did you chose
     this way?"
