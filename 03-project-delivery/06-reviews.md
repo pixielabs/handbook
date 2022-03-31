@@ -44,7 +44,7 @@ can also benefit from your research.
   - If you needed to look something up, the reviewer might too.
   - Put links in the description to tutorials and articles that helped you.
   - Leave links to useful documentation as comments in the code so future developers
-  will also benefit.
+  can also benefit.
 
 ## As a 'reviewer'
 - Be comfortable in passing the PR on to someone else for a second opinion,
