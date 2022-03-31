@@ -77,8 +77,7 @@ can also benefit from your research.
     - Must dos - the important stuff. Highlight them in a change request.
     - Should dos - make a task/ticket if anything can be done as later.
     - Could dos - "We could do -suggestion-. Not important, you decide."
-- Check the [handbook](./03-style-guidelines.md) for things that are to do with
-code style.
+- Check the [handbook](./03-style-guidelines.md) as a code style reference.
   - We should be on the same page with our code style, if not, we should discuss as
   a team rather than between individuals on PRs.
   - If it’s not in the handbook or you disagree with something, bring it up in
