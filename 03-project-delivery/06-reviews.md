@@ -34,7 +34,7 @@ matter your level; it's a key part of how we improve as a team.
 - Take feedback on board.
   - Don’t be too defensive of the code, we're a team and collaboration
   makes our code better.
-- Assume the reviewer's tone is a friendly/ curious one.
+- Assume the reviewer's tone is a friendly / curious one.
   - Written feedback is often read in an overly critical tone in our heads.
   - We’re all friends here. How would the reviewer be saying this to you in person?
 - Try to respond to every comment and resolve them as you go.
