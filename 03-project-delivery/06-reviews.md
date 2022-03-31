@@ -38,7 +38,7 @@ matter your level; it's a key part of how we improve as a team.
   - Written feedback is often read in an overly critical tone in our heads.
   - We’re all friends here. How would the reviewer be saying this to you in person?
 - Try to respond to every comment and resolve them as you go.
-  - Link to specific commits - "Well spotted! Done in 123987"
+  - Link to specific commits - "Well spotted! Done in #123987"
 - Provide links and learning resources that you found useful so the reviewer
 can also benefit from your research.
   - If you have needed to look something up, the reviewer might too.
