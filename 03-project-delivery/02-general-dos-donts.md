@@ -23,6 +23,8 @@
   cases.
 - Do use [squoosh](https://squoosh.app/) to compress images & pick appropriate
   formats for them.
+- Do set `config.time_zone` in new Rails applications to the right time zone
+  for the client (e.g. 'Europe/London').
   
 ## Don'ts
 - Don't use Heroku Scheduler; it doesn't guarantee a run and we've had business
