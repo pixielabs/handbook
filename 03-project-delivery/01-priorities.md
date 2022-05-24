@@ -28,10 +28,23 @@ We do this by:
 - Keeping dependencies up to date when we can.
 - Automating tasks.
 
-### Fast deployment
+### Fast, continuous(-ish) deployment
 If deploying requires a set of instructions, the deployment process might be too
 complicated. We deploy frequently, and every developer should be able to do it.
 This helps us avoid bottlenecks and keep our clients happy.
+
+We should be deploying continuously too. Both to staging / QA environments _and_
+production. We should separate developer process from business process e.g.
+a release of a new feature for a client should not be blocked by a developer
+managing a deploy. Instead, use feature flags for features that can't be released
+whenever we want.
+
+Feature flags can be difficult to architect around complex functionality e.g.
+big refactors, overhauls, or data migrations. This is a bit of an amber flag
+that we might not be breaking down our work correctly, but if we're confident
+it's the right approach it's OK to sacrifice feature flags in these cases for
+the sake of pace. Ultimately we should use feature flags to _speed us up_,
+not slow us down.
 
 ### Identifying issues before our clients
 If we discover something is wrong primarily from a client emailing us, we have
