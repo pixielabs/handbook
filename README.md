@@ -1,6 +1,6 @@
 # Welcome!
 
-Welcome to the Pixie Labs handbook! On this site you'll find _nearly_
+Welcome to the [Pixie Labs handbook](https://handbook.pixielabs.io/#/)! On this site you'll find _nearly_
 everything you need to know about working at Pixie Labs. The handbook is 
 perpetually a work-in-progress, evolving as we grow and change as a company.
 
