@@ -6,6 +6,10 @@ perpetually a work-in-progress, evolving as we grow and change as a company.
 
 If something seems to be missing, let’s have a chat!
 
+## Reading this handbook on GitHub?
+
+You're in the wrong place! View the handbook at https://handbook.pixielabs.io.
+
 ## Building the handbook
 
 The handbook is hosted on GitHub Pages and built using
