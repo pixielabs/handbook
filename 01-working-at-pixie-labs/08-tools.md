@@ -48,13 +48,36 @@ booked on in the coming days and weeks. This allows you to effectively
 manage your time between projects.
 
 ## Communicating
-We use [Slack](https://slack.com/) for day-to-day communication,
-[Zoom](https://zoom.us/) for video calls, and [Front](https://frontapp.com/) for
-emails. Front is a key part of how we support our clients, as it enables us to
-efficiently handle support queries via a shared inbox. See our guide on
-[Support processes](../04-ongoing-support/02-support-processes.md).
+We use [Slack](https://slack.com/) for day-to-day communication and
+[Front](https://frontapp.com/) for emails. Front is a key part of how we
+support our clients, as it enables us to efficiently handle support queries via
+a shared inbox. See our guide on [Support
+processes](../04-ongoing-support/02-support-processes.md).
 
-We're evaluating using [Tandem](https://tandem.chat/) for more 
-serendipitous and low-friction communication and collaboration throughout the day.
-We've found this particularly effective for 'mixed' situations e.g. where
-some team members are remote and some are together in an office environment.
+### Video and voice calls
+We're big believers in avoiding email ping-pong, and instant messaging via 
+Slack is great but it can be a big distraction. So much communication nuance
+(e.g. speech inflection, body language) is lost in text communication. So we
+don't hesitate to jump on a call with each other, clients, or partners.
+
+Generally speaking we use two tools for two different types of calls:
+
+ - We use [Zoom](https://zoom.us) for formal calls e.g. team meetings or
+   conversations with external people (e.g. clients, partners).
+
+ - We use [Slack Huddles](https://slack.com/intl/en-gb/help/articles/4402059015315-Use-huddles-in-Slack)
+   for quick, informal discussions amongst ourselves e.g. helping with a
+   problem or getting clarity on something.
+
+An IRL comparison is as follows: Use Zoom for anything you'd book a meeting
+room for, Slack Huddles for a conversation you'd have at someone's desk, or
+if you were taking a walk together.
+
+We've evaluated [Tandem](https://tandem.chat/) instead of Slack Huddles but
+found it was a bit buggy, we didn't really like the UX, and a third tool felt
+overkill for what it provided, especially once Slack launched Huddles.
+
+We're keeping an eye on apps like [Tuple](https://tuple.app/) to help us
+with technical calls e.g. pair programming. Neither Slack, nor Zoom, provide 
+the best experience for this in our opinion, but we don't have a better 
+alternative just yet.
