@@ -1,5 +1,10 @@
 # Style guidelines
 
+## All code
+
+ - Where possible keep lines to 80 characters. Don't try too hard if it
+   makes the code uglier, though.
+
 ## Ruby
 
 We have a _de facto_ Ruby style, and if you follow 
