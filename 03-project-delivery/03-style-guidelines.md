@@ -20,6 +20,9 @@ right now, but you can pull it from another project, or from this handbook.
 The `.rubocop.yml` looks something like this:
 
 ```yaml
+# On fresh projects this is easier, on existing projects we might skip this
+require: rubocop-rails
+
 inherit_gem:
   rubocop-shopify: rubocop.yml
 
@@ -55,8 +58,12 @@ Style/BlockDelimiters:
 Style/AndOr:
   EnforcedStyle: conditionals
   
-# Don't cop binstubs
+
 AllCops:
+  # Generally new cops are worth enabling especially from rubocop-rails
+  NewCops: enable
+  
+  # Don't cop binstubs
   Exclude:
     - "bin/*"
 ```
