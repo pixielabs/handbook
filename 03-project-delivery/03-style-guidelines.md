@@ -54,6 +54,11 @@ Style/BlockDelimiters:
 # See <https://github.com/rubocop/rubocop/issues/1288>
 Style/AndOr:
   EnforcedStyle: conditionals
+  
+# Don't cop binstubs
+AllCops:
+  Exclude:
+    - "bin/*"
 ```
 
 And an `.overcommit.yml` that looks something like this:
