@@ -1,5 +1,9 @@
 # Tools for teamwork
 
+_Some of this is a little out of date_ because we are making a transition from
+Pivotal Tracker to [ClickUp](https://clickup.com). Once we've moved, we'll
+update it.
+
 ## Sprinting
 We use [Trello](https://www.trello.com) and
 [Pivotal Tracker](https://www.pivotaltracker.com/).
