@@ -2,6 +2,7 @@
 
   - [Security](/01-working-at-pixie-labs/01-security.md)
   - [Tools for teamwork](/01-working-at-pixie-labs/02-tools.md)
+  - [Development environment](/03-development-environment.md)
 
 - Project management
 
