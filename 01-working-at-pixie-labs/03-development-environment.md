@@ -8,9 +8,8 @@ However we do have some stipulations, and some recommendations.
 
 ## Stipulations
 
-- Use macOS. Sorry, we just can't fragment our team into multiple operating
-  systems, it makes it harder to share knowledge and introduces a wider
-  variety of issues.
+- Use macOS. Multiple operating systems makes it harder to share knowledge,
+  pick team-wide tools, and introduces extra categories of day-to-day issues.
 - Your development environment must conform to our [security
   guidelines](01-security.md).
 - Manage packages with [Homebrew](https://brew.sh/).
