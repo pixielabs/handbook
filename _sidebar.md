@@ -1,7 +1,7 @@
 - Working at Pixie Labs
 
-  - [Security](/01-working-at-pixie-labs/07-security.md)
-  - [Tools for teamwork](/01-working-at-pixie-labs/08-tools.md)
+  - [Security](/01-working-at-pixie-labs/01-security.md)
+  - [Tools for teamwork](/01-working-at-pixie-labs/02-tools.md)
 
 - Project management
 
@@ -31,4 +31,4 @@
 
 - Personal development
 
-  - [Time for us](/05-personal-development/02-time-for-us.md)
+  - [Time for us](/05-personal-development/01-time-for-us.md)

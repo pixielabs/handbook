@@ -5,9 +5,8 @@ Use GitHub for all code, whether public, private or for a client.
 
 ## Trello
 We use [Trello](https://trello.com) for all kinds of lists. Some projects are
-managed on Trello, but mostly it’s for blog post ideas,
-[Friday Kicks](../01-working-at-pixie-labs/03-friday-kicks.md) ideas, and general
-housekeeping tasks.
+managed on Trello, but mostly it’s for blog post ideas, Friday Kicks ideas, and
+general housekeeping tasks.
 
 ## Pivotal Tracker
 [Pivotal Tracker](https://www.pivotaltracker.com/dashboard) is used for projects

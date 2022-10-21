@@ -1,1 +1,0 @@
-# Sickness and absence policy
