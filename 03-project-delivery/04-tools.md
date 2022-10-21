@@ -18,6 +18,10 @@ etc.
 See 'Sprinting' in our [Tools for teamwork](../01-working-at-pixie-labs/08-tools.md)
 guide for more detail on how we use Pivotal Tracker.
 
+We're experimenting with [ClickUp](https://clickup.com) as a replacement for
+Pivotal Tracker. We haven't decided for sure if it's our permanent new home,
+but it's looking likely.
+
 ## Semaphore
 We use [Semaphore](https://semaphoreci.com) for continuous
 integration. It can also be used for continuous deployment, but usually Heroku
