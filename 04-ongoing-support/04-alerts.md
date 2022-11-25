@@ -11,7 +11,7 @@ Alerts should:
 It doesn’t matter what service you use to achieve this, but we tend to use:
 
 - [AWS Cloudwatch](https://aws.amazon.com/cloudwatch/)
-- [Rollbar]](https://rollbar.com)
+- [Rollbar](https://rollbar.com)
 - [UptimeRobot](https://uptimerobot.com/)
 - [Scout](https://scoutapm.com/)
 - [Librato](https://www.librato.com/)
