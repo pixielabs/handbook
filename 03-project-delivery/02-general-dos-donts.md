@@ -26,7 +26,7 @@
 - Do set `config.time_zone` in new Rails applications to the right time zone
   for the client (e.g. 'Europe/London').
 - Do make sure there is a centralised logging in place for every new project. As a team we prefer [Papertrail](https://www.papertrail.com/).
-- Do make sure there is an exeption handling set up for every new project. As a team we prefer [Rollbar](https://rollbar.com/) and [Bugsnag](https://www.bugsnag.com/).
+- Do make sure there is an exeption handling set up for every new project. As a team we prefer [Rollbar](https://rollbar.com/) but we like to use [Bugsnag](https://www.bugsnag.com/) for projects focused around a React Native mobile application.
 
 ## Don'ts
 - Don't use Heroku Scheduler; it doesn't guarantee a run and we've had business
