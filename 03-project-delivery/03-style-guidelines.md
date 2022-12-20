@@ -4,6 +4,12 @@
 
  - Where possible keep lines to 80 characters. Don't try too hard if it
    makes the code uglier, though.
+ - Write a README. It should include, at minimum:
+ 
+   1. How to set up the codebase
+   2. How to run it locally on a developer machine
+   3. How to test it (e.g. how to run the tests locally)
+   4. How to deploy it.
 
 ## Ruby
 
