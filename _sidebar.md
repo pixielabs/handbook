@@ -12,6 +12,7 @@
   - [Project delivery metrics](/02-project-management/05-project-delivery-metrics.md)
   - [Doing a spike](/02-project-management/06-doing-a-spike.md)
   - [Regular meetings](/02-project-management/07-regular-meetings.md)
+  - [Writing tickets](/02-project-management/08-writing-tickets.md)
 
 - Project delivery
 
