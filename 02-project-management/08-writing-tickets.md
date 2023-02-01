@@ -16,7 +16,8 @@ We think that a good ticket has the following:
 6. Acceptance Criteria (ACs)
 7. Tasks
 8. Estimates
-9. Supplemental material
+9. Metrics
+10. Supplemental material
 
 ### Title
 
@@ -68,6 +69,14 @@ Small tickets might have an overall estimate, but most tickets (especially ones
 with tasks) should have estimates on the tasks themselves. See [Estimating a
 project](/02-project-management/01-estimating.md) for more detail on how we
 estimate.
+
+### Metrics
+
+A ticket should have some idea of how the impact/value it delivers is going to
+be measured. So the ticket should cover any new product analytics events
+(e.g. MixPanel events) that need to be added, what data they need to include,
+when they should be sent. We should also upfront decide what success looks like
+once the feature has been delivered, using those metrics.
 
 ### Supplemental material
 
