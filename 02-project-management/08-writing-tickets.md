@@ -30,7 +30,7 @@ description.
 ### Description
 
 To make sure we as a team understand the context of the problem we're fixing, what 
-kind of user we're solving it for, and what value solcing this problem provides to the customer or business, 
+kind of user we're solving it for, and what value solving this problem provides to the customer or business, 
 we need a breif description to set the scene for the solution we're providing. This is often 
 the first section of a ticket we populate (in addition to the title) to ensure the value being 
 delivered from this ticket is easy to understand and clearly documented.
