@@ -80,7 +80,7 @@ Subtasks are especially important for larger tickets. You can think of the list 
 subtasks on a ticket like a todo list from a development perspective. To help work 
 out how big or small a task should be, think about it like this: As a software engineer, 
 you should be completing multiple tasks within a day. Subtasks shouldn't be confused with
-AC's however, as AC's are a checklist of the expected functionality, not the steps to 
+ACs however, as ACs are a checklist of the expected functionality, not the steps to 
 achieve that functionality unlike subtasks.
 
 ### Estimates
