@@ -59,7 +59,7 @@ out of scope or not for now.
 
 ### Acceptance criteria
 
-Acceptance criteria (AC's) are a set of conditions or requirements that must be 
+Acceptance criteria (ACs) are a set of conditions or requirements that must be 
 met in order for a ticket to be considered as 'Done'. It helps to clearly define 
 what is expected and ensures that the feature being delivered aligns with the 
 customer’s needs and expectations. Acceptance criteria typically include functional
