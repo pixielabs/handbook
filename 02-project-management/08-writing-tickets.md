@@ -67,7 +67,7 @@ requirements, performance requirements, and design requirements. They should be 
 measurable, and verifiable, and should be agreed upon by all members involved in the 
 planning and delivering of the ticket.
 
-### Designs/UX
+### Designs and UX
 
 This section should feature a URL to the _finished_ designs, whether it be somewhere like 
 Figma or Miro. Some tickets don't need designs (e.g back-end tickets), but in this case we 
