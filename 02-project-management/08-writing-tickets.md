@@ -14,7 +14,7 @@ We think that a good ticket has the following:
 4. Implementation notes
 5. Out of scope / not for now
 6. Acceptance Criteria (ACs)
-7. Designs/UX
+7. Designs and UX
 8. Tasks
 9. Estimates
 10. Metrics
