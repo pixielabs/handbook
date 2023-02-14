@@ -48,7 +48,7 @@ kinds of files. Set up a shared Dropbox folder for them if necessary.
 Use [Harvest](https://www.getharvest.com) to track your time against subtasks 
 directly from ClickUp. We track our time so we know we are balancing our client
 projects correctly. Use [Forecast](https://forecastapp.com/) to see what projects
-you arebooked on in the coming days and weeks. This allows you to effectively
+you are booked on in the coming days and weeks. This allows you to effectively
 manage your time between projects.
 
 ## Communicating
