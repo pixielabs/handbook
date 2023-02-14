@@ -1,23 +1,23 @@
 # Tools for teamwork
 
-_Some of this is a little out of date_ because we are making a transition from
-Pivotal Tracker to [ClickUp](https://clickup.com). Once we've moved, we'll
-update it.
-
 ## Sprinting
-We use [Trello](https://www.trello.com) and
-[Pivotal Tracker](https://www.pivotaltracker.com/).
+We use [ClickUp](https://app.clickup.com/)).
 
-**We follow this story lifecycle on Pivotal Tracker:**
+**We follow this story lifecycle on ClickUp:**
 
-| State     | Description                                                                                            |
-|-----------|--------------------------------------------------------------------------------------------------------|
-| Unstarted | No one has worked on this yet                                                                          |
-| Started   | Someone has taken this and started work on it                                                          |
-| Finished  | Work is finished, a PR has been submitted, the tests pass.                                             |
-| Delivered | The work has been internally reviewed and is ready for the client to review in staging.                |
-| Accepted  | The work has been checked by the product owner and can be merged to master / rolled out to production. |
-| Rejected  | Changes required before this can be merged.                                                            |
+| State            | Description                                                                             |
+|------------------|-----------------------------------------------------------------------------------------|
+| New              | Ticket template created with a brief explanation of the value being provided.           |
+| Spec Added       | Description, ACs, scope and designs have been confirmed and documented.                 |
+| Subtasks Added   | The work has been broken down into subtasks.                                            |
+| Estimated        | Subtasks have been estimated and PR Review time has been added.                         |
+| Ready To Start   | Necessary details added, the work is ready to be picked up.                             |
+| In Progress      | Someone has taken this and started work on it.                                          |
+| Ready For Review | PR has been crated and is ready for code review.                                        |
+| Ready For QA     | The work has been internally reviewed and is ready for the client to review in staging. |
+| Passed           | The work has been checked by the product owner.                                         |
+| Ready For Deploy | The is ready to be rolled out to production.                                            |
+| Done             | The work has been successfully rolled out to production.                                |
 
 
 For some projects it may be necessary to merge PRs to master before they have
@@ -36,7 +36,7 @@ change it.
 
 ## Storing files
 Use Google Drive for documents (e.g. spreadsheets, word documents,
-presentations). Use [Dropbox](https://dropbox.com/) for everything else.
+presentations).
 
 It's really painful managing anything other than documents in Google Drive,
 e.g. assets, large files such as videos. It's also painful managing anything
@@ -45,10 +45,10 @@ situations, use Dropbox. Encourage clients to use Dropbox to share these
 kinds of files. Set up a shared Dropbox folder for them if necessary.
 
 ## Tracking time
-Use [Harvest](https://www.getharvest.com) to track your time. We track our time
-so we know we are balancing our client projects correctly. Use
-[Forecast](https://forecastapp.com/) to see what projects you are
-booked on in the coming days and weeks. This allows you to effectively
+Use [Harvest](https://www.getharvest.com) to track your time against subtasks 
+directly from ClickUp. We track our time so we know we are balancing our client
+projects correctly. Use [Forecast](https://forecastapp.com/) to see what projects
+you are booked on in the coming days and weeks. This allows you to effectively
 manage your time between projects.
 
 ## Communicating
