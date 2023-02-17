@@ -28,6 +28,15 @@ If you are on the rota for a day your responsibility is to:
   people to resolve the issue where you are unable to.
 - Be the first to respond to client emails.
 
+Some additional things to remember are:
+
+- Make sure to respond to clients acknowledging receipt of issue.
+- If you need help, tag another engineer in Front.
+- If a support issue spans multiple days, make sure to handover the issue to
+  the next engineer.
+- If you're assigning the issue to another engineer, only assign it to one person.
+- Only assign the issue once the assignee has said they have capacity to take it on.
+
 The rota is managed by setting it as our General Slack channel topic.
 
 ### Runbooks
