@@ -30,7 +30,7 @@ If you are on the rota for a day your responsibility is to:
 
 Some additional things to remember are:
 
-- Make sure to respond to clients acknowledging receipt of issue.
+- Make sure to respond to clients acknowledging receipt of the issue.
 - If you need help, tag another engineer in Front.
 - If a support issue spans multiple days, make sure to handover the issue to
   the next engineer.
