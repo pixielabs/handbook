@@ -1,7 +1,7 @@
 # Security
 
 ## General
-- Don’t be a n00b. Responsibility, not restriction. Generally, everyone should
+- Responsibility, not restriction. Generally, everyone should
   be trusted to be sensible.
 - Use a passphrase-based SSH key.
 - Use total volume encryption (e.g. FileVault). This is strongly enforced when
