@@ -52,7 +52,7 @@ Let's say you have a feature branch ready to push. You check the Git log and see
 
 Use `git rebase -i <commit>` (e.g. `git rebase -i HEAD~5` to rebase the last 5 commits) to interactively rebase the commit history and restructure commits, such as changing commit messages, squashing commits, and reordering commits.
 Use the options `pick` to keep a commit as-is, `squash` to combine a commit with the previous commit (up), and `edit` to stop at a specific commit for further changes. You can cut and move lines to re-order the sequence of commits too.
-* Don't be afraid to try rebase. You can always use `git rebase --abort` to cancel it if you get unstuck.
+* Don't be afraid to try rebase. You can always use `git rebase --abort` to cancel it if you come unstuck.
 * Keep an eye on the helpful feedback from Git on how to use rebase properly.
 
 ### Search through revision histories
