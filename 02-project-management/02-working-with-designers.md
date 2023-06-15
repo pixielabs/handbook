@@ -3,8 +3,9 @@
 ## Software preferences
 Through experience we've found it can be difficult for us to implement designs
 implemented in Photoshop or Illustrator. Our favourite app to receive designs
-in is [Sketch](https://www.sketch.com). Our second favourite is
-[Figma](https://www.figma.com) provided it's a fully paid up account.
+in is [Figma](https://www.figma.com). Our second favourite is
+[Sketch](https://www.sketch.com). Both should only be used if they are fully
+paid up accounts.
 
 ## Mobile first
 It is very exciting for clients to see desktop designs, however we always push
