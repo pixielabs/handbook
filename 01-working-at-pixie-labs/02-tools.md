@@ -1,7 +1,7 @@
 # Tools for teamwork
 
 ## Sprinting
-We use [ClickUp](https://app.clickup.com/)).
+We use [ClickUp](https://app.clickup.com/).
 
 **We follow this story lifecycle on ClickUp:**
 
@@ -13,7 +13,7 @@ We use [ClickUp](https://app.clickup.com/)).
 | Estimated        | Subtasks have been estimated and PR Review time has been added.                         |
 | Ready To Start   | Necessary details added, the work is ready to be picked up.                             |
 | In Progress      | Someone has taken this and started work on it.                                          |
-| Ready For Review | PR has been crated and is ready for code review.                                        |
+| Ready For Review | PR has been created and is ready for code review.                                        |
 | Ready For QA     | The work has been internally reviewed and is ready for the client to review in staging. |
 | Passed           | The work has been checked by the product owner.                                         |
 | Ready For Deploy | The is ready to be rolled out to production.                                            |
@@ -21,7 +21,7 @@ We use [ClickUp](https://app.clickup.com/)).
 
 
 For some projects it may be necessary to merge PRs to master before they have
-been accepted by the product owner (e.g. if the product owner is not regularly
+been accepted by the product owner (E.g. if the product owner is not regularly
 reviewing progress during the sprint).
 
 ## Sharing passwords / secrets
@@ -38,9 +38,9 @@ change it.
 Use Google Drive for documents (e.g. spreadsheets, word documents,
 presentations).
 
-It's really painful managing anything other than documents in Google Drive,
-e.g. assets, large files such as videos. It's also painful managing anything
-that Google Drive can't open such as Figma or Sketch files. So in these
+It's really painful managing anything other than documents in Google Drive.
+E.g. assets, large files such as videos. It's also painful managing anything
+that Google Drive can't open such as Figma or Sketch files. So, in these
 situations, use Dropbox. Encourage clients to use Dropbox to share these
 kinds of files. Set up a shared Dropbox folder for them if necessary.
 
