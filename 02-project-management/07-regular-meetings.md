@@ -18,3 +18,27 @@ the day.
 
 We're experimenting with splitting planning & retro out into two separate
 meetings, but haven't decided on anything yet.
+
+## Pixie Daily Check-In
+
+At Pixie Labs, we usually handle a lot of projects at the same time. To make sure everyone
+knows what's happening, we kick off every day with a quick meeting.
+
+Here's how it goes:
+
+- Completed Tasks: What have you done? (Keep it short or skip it if there's nothing special)
+- Incomplete Tasks: What didn't you finish yesterday and why?
+- Need Help: Who do you need help from?
+- Today's Tasks: What are you planning to do today?
+- More Work: If you don't have enough work, ask Philip or David for more!
+
+Try to say who you're talking to with each point, it makes things clear. For example:
+
+- "David, I said I'd update the client's icon yesterday but I had trouble with my build. Can you help me out this morning?"
+- "Josh, I'll start with the client Spike this morning. You'll have the estimates before your call with David this afternoon."
+
+Avoid just saying what's on your calendar. It doesn't help people know how they can help you. 
+
+Instead, write a few notes of what you plan to raise before the meeting. This also helps you remember what you said you'd do yesterday.
+
+And remember, if everything went fine with yesterday's tasks, you don't need to say much about it. Keep it short. For example, "Philip, I talked to Michael. He'll launch the app when he's ready."
