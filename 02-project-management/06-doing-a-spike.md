@@ -1,30 +1,21 @@
-# Doing a spike
+# Tackling a Spike
 
-> [A spike is] a task aimed at answering a question or gathering information,
-> rather than at producing shippable product. Sometimes a user story is
-> generated that cannot be well estimated until the development team does some
-> actual work to resolve a technical question or a design problem. The solution
-> is to create a “spike,” which is some work whose purpose is to provide the
-> answer or solution.
->
-> \- [The Agile Dictionary](http://agiledictionary.com/209/spike/)
+> A "spike" is a task focused on resolving uncertainties or gaining information,
+> rather than creating a shippable product. It's a strategy used when we can't
+> confidently estimate a user story without first doing some groundwork.
 
-You might need to perform a spike if you have one or more related user stories
-that either:
+Here are some reasons why you might need to conduct a spike:
 
-1. are large and cannot be broken down (e.g. due to uncertainty),
-2. we don't know how to implement yet, or
-3. cannot be estimated with any confidence for some reason.
+1. User stories that are large and defy breakdown, often due to uncertainty.
+2. Implementational uncertainty surrounding a user story.
+3. The inability to estimate a user story confidently for some reason.
 
-In these situations, we'll add a spike ticket to the backlog. In Pivotal Tracker
-we'll use a Chore card to represent a spike, and label it or add "SPIKE" to the
-title.
+In these cases, we create a spike ticket in ClickUp. Your spike ticket should
+contain:
 
-Your spike ticket should include the following information:
-
- - A description of the spike; what is involved?
- - An owner; who is doing the spike?
- - Outcomes. Typically, this is 'a set of estimated user stories' but could
-   also be something like 'a decision about which technology to use'.
- - A time-box; the maximum amount of time we want to spend on the spike to reach
-   the outcomes. Typically this will be measured in hours.
+ - A description of the spike; what does it involve?
+ - An owner; who is responsible for conducting the spike?
+ - Outcomes, typically 'a set of estimated user stories' or 'a decision about 
+   which technology to use'.
+ - A time-box; the maximum time we want to spend on the spike to achieve the 
+   outcomes, usually measured in hours.

@@ -140,26 +140,23 @@ to help us remember the steps we need to do before and after submitting a PR.
 It's very straightforward. PR templates should speed us up, not slow us down.
 If they're slowing us down, we need to rethink the format.
 
-Currently, it looks like this:
+Here's our current template:
 
 ```markdown
 ## Changes
 **Description of what you did**
 
-## Ticket
-**Insert link to Pivotal ticket here**
+## Issue/Task
+**Link to the related issue or task**
 
-## Before submitting have you:
+Before submitting, have you:
+- [ ] Included a link to the related issue or task
 
-- [ ] Included a link to any relevant Pivotal Tracker ticket
-- [ ] Included links to Rollbar/Front conversations if this is a support issue
-
-## After submitting remember to:
-
-- [ ] Mark the Pivotal Tracker ticket as ready for review
-- [ ] Include the PR on the Pivotal Tracker ticket
+After submitting, remember to:
+- [ ] Mark the related issue or task as ready for review
+- [ ] Include the PR on the related issue or task
 - [ ] Assign a single reviewer
-- [ ] Give an update on Slack - nudge the reviewer, let everyone know what you're going to do next.
+- [ ] Update on the communication platform (e.g., Slack)
 ```
 
 ## Project delivery metrics

@@ -2,88 +2,88 @@
 
 ## Critical support
 
-We cover critical support with the following tools and processes:
+We manage critical support with the following tools and processes:
 
-- **A suite of monitoring tools and alerts** so we know when something goes
-  wrong. See our guide on [Alerts](/04-ongoing-support/04-alerts.md) for more information.
-- **A weekday rota** so we know who orchestrates responding to incidents using
-  the Trello board (not public). 
-- **Runbooks** so we know what to do.
-- **Incident post-mortem** so we know how to stop it from happening in the future.
+- **A suite of monitoring tools and alerts** so we're promptly informed when 
+  something goes wrong. More details can be found in our guide on 
+  [Alerts](/04-ongoing-support/04-alerts.md).
+- **A weekday rota** ensuring there's always someone orchestrating incident 
+  responses using our ClickUp board.
+- **Runbooks** providing guidelines on how to handle common issues.
+- **Incident post-mortem** to analyse and learn from major incidents to prevent 
+  future occurrences.
 
-You should also read Abigail’s blog post on
+Abigail’s blog post on
 [being a developer on support](https://blog.pixielabs.io/help-im-a-developer-on-support-8ad0528acfc6)
-to understand how we juggle this with everyday coding.
+provides insight into how we balance support with regular coding.
 
 ### A weekday rota
-If you are on the rota for a day your responsibility is to:
 
-- Respond to alarms during office hours (or delegate it to someone, e.g. if
-  you're out at lunch!).
-- Track ongoing incidents and software support requests on Trello.
-- Communicate with clients and other stakeholders when an issue has arisen that
-  impacts them or their customers.
-- Continue to communicate with clients as we work to resolve the issue.
-- Investigate and attempt to resolve the issue yourself, or coordinate the right
-  people to resolve the issue where you are unable to.
-- Be the first to respond to client emails.
+Being on the rota for the day entails responsibilities such as:
 
-Some additional things to remember are:
+- Responding or delegating responses to alarms during office hours.
+- Tracking ongoing incidents and software support requests on ClickUp.
+- Keeping clients and other stakeholders informed about issues affecting them or 
+  their customers, and maintaining communication as we work to resolve the issue.
+- Investigating and attempting to resolve the issue yourself or coordinating with 
+  the right people to handle it when needed.
+- Being the first respondent to client emails.
 
-- Make sure to respond to clients acknowledging receipt of the issue.
-- If you need help, tag another engineer in Front.
-- If a support issue spans multiple days, make sure to handover the issue to
-  the next engineer.
-- If you're assigning the issue to another engineer, only assign it to one person.
-- Only assign the issue once the assignee has said they have capacity to take it on.
+Keep in mind:
+
+- Always acknowledge receipt of an issue to the clients.
+- If you need help, ask another engineer.
+- Ensure a proper handover if a support issue spans multiple days.
+- Assign issues to only one engineer at a time, and ensure they have the capacity 
+  to take it on before doing so.
 
 The rota is managed by setting it as our General Slack channel topic.
 
 ### Runbooks
-A runbook details common ways to resolve alarms and other issues. There should
-be one for each major client or client project. They’re freely editable!
+
+Runbooks outline the common procedures for resolving issues related to alarms 
+and other incidents. There should be one for each major client or client project. 
+They’re available for editing whenever necessary.
 
 ### Incident post-mortem
-Major incidents and issues should be followed up with a post-mortem. This can be
-anything from a five minute chat to a full-on meeting, but should loosely
-follow:
+
+Significant incidents and issues should be followed up with a post-mortem. The 
+format can range from a short chat to a full meeting, but should loosely address:
 
 - What happened?
 - What went well?
 - What didn’t go well?
-- Action items (e.g. add tasks to backlog)
+- Action items (e.g., add tasks to backlog)
 
 ## Consulting
 
-When a client contacts us with an issue, the person on the weekday rota is
-responsible for orchestrating a response. This should include:
+When a client contacts us with an issue, the person on the weekday rota is 
+responsible for coordinating a response, which should include:
 
-- **An initial response** so our clients know we are on the case, and that they can
-  relax.
-- **Prioritisation and assignment** so the right person can respond, minimising the
-  impact on other projects.
-- **Not deploying any code.**
+- **An initial response** reassuring our clients that we're aware of the issue.
+- **Prioritisation and assignment** ensuring the right person is attending to the 
+  issue promptly.
+- **Avoid deploying any code.**
 
 ### An initial response
-The person on rota for the day should respond to the client before beginning to
-prioritise and assign the query. This first response should make no guarantee of
-a resolution time, it is purely to reassure the client that we have received
-their message and are handling it.
+
+The person on rota should respond to the client before starting to prioritise 
+and assign the issue. This initial contact should reassure the client without 
+promising a resolution timeframe.
 
 ### Prioritisation and assignment
-Some support questions are more important than others. The client may be just
-asking a random question, or they may be in a meeting right now and need
-something fixed ASAP. It’s the job of the person on rota to work this out with
-the help of the rest of the team.
 
-Once the support question has been assigned to someone, the work of the person
-on rota is done (unless they assign it to themselves!).
+Support requests vary in importance. The person on rota is responsible for 
+determining the urgency of a request with the help of the rest of the team. Once 
+the support request is assigned, the work of the person on rota is completed 
+(unless they assign it to themselves!).
 
-### Not deploying any code
-As a team, we optimise for erosion resistance. This means generally speaking we
-do not fix bugs outside of sprints. Software is never done, and bugs are always
-waiting to be found. If we are ‘in sprint’ with a client, bugs should still be
-logged and scheduled along with the rest of the backlog.
+### Avoid deploying any code
 
-If a bug is so severe that it impacts all customers it should be handled as
-critical support issue. It also should’ve been picked up by an alarm!
+Our team prioritises erosion resistance, which means we generally don't fix bugs 
+outside of sprints. Bugs are always waiting to be found and software is never 
+perfect. If we're 'in sprint' with a client, bugs should still be logged and 
+scheduled along with the rest of the backlog.
+
+If a bug severely impacts all customers, it should be handled as a critical 
+support issue and would have likely triggered an alarm.
