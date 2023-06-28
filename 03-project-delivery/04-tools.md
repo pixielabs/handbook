@@ -19,7 +19,7 @@ avoids conflicts with other developers' work.
 #### Use descriptive commit messages
 
 We're not super prescriptive on commit message format, but if you want to follow
-a standardised format, consider the [Commitlint](https://commitlint.js.org/) 
+a standardised format, consider the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) 
 style. It uses a standardised format for commit messages that includes a type, 
 scope, and subject. For example, a commit message might start with "docs: update
 README with new information" or "feat: add new feature to user profile page".
