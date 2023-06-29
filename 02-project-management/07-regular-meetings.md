@@ -29,7 +29,7 @@ Here's how it goes:
 - Yesterday's successes: What did you do? (Keep it short or skip it if there's nothing special)
 - Yesterday's blockers: What tasks weren't you able to complete yesterday and why? Who do you need help from?
 - Today's Commitments: What tasks are you planning to complete today? (Be specific!)
-- More Work: If you don't have enough work, demand Philip or David for more!
+- More Work: If you don't have enough work, demand more from Philip or David!
 
 Try to say who you're talking to with each point, it makes things clear. For example:
 
