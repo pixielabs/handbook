@@ -19,7 +19,7 @@ the day.
 We're experimenting with splitting planning & retro out into two separate
 meetings, but haven't decided on anything yet.
 
-## Pixie Daily Check-In
+## Standup Guidelines 
 
 At Pixie Labs, we usually handle a lot of projects at the same time. To make sure everyone
 knows what's happening, we kick off every day with a quick meeting.
