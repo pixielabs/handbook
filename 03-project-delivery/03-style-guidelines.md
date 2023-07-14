@@ -120,3 +120,16 @@ We don't have a particular style for JavaScript right now.
 Use [JavaScript Standard Style](https://standardjs.com/) to resolve bike-shed debates.
 Specifically [semistandard](https://github.com/standard/semistandard) because we
 use semicolons to terminate expressions.
+
+## Documentation
+
+Remember documentation is something we don't priorities (see [Priorities](/#/03-project-delivery/01-priorities))
+but we still write plenty of documentation! In particular:
+
+ - **Code repository documentation** (e.g. a README) should be limited to information
+   that helps you (a developer) develop that project.
+ - **Project runbooks** should contain information that helps you run (e.g. manage,
+   maintain, support) a live project.
+
+If you're not sure whether some documentation belongs in the repository or the
+project runbook, ask!
