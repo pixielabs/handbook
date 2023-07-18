@@ -68,6 +68,8 @@ Generally speaking we use two tools for two different types of calls:
 
  - We use [Zoom](https://zoom.us) for formal calls e.g. team meetings or
    conversations with external people (e.g. clients, partners).
+   Bonus; sign up for [Chataway](https://www.chataway.io/) so people in
+   Slack can see when you're on a Zoom call.
 
  - We use [Slack Huddles](https://slack.com/intl/en-gb/help/articles/4402059015315-Use-huddles-in-Slack)
    for quick, informal discussions amongst ourselves e.g. helping with a
