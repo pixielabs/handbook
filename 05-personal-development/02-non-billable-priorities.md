@@ -1,4 +1,4 @@
-# Time for us
+# Non-billable priorities
 
 As an agency not everyone is 'billed' at the same time. This means that we might
 not all be working on something that we’re being paid for.

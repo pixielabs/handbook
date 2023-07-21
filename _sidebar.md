@@ -33,4 +33,5 @@
 
 - Personal development
 
-  - [Time for us](/05-personal-development/01-time-for-us.md)
+  - [Billable vs Non-billable](/05-personal-development/01-billable-vs-non-billable.md)
+  - [Non-billable time](/05-personal-development/02-non-billable-priorities.md)
