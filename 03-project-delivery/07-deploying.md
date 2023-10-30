@@ -70,10 +70,15 @@ A deploy to production is then:
    to be run manually e.g. one-off rake tasks, and document them in the
    description too so you don't forget.
 2. Let the project team know on Slack you're preparing a deploy.
-3. Wait for CI to pass the commit you're merging.
-4. Merge the PR.
-5. Wait for CI to pass the merge commit (you can watch this on GitHub).
-6. Once CI passes the merge commit, the deploy should start on Heroku and you
+3. Before deploying, liaise with another developer on the project to ensure
+   there are no impending merges that might conflict with your deployment. 
+   This step helps to mitigate the risk of simultaneous merges, especially from 
+   main to production, that might inadvertently escalate the scope of
+   deployment.
+4. Wait for CI to pass the commit you're merging.
+5. Merge the PR.
+6. Wait for CI to pass the merge commit (you can watch this on GitHub).
+7. Once CI passes the merge commit, the deploy should start on Heroku and you
    should see it on the Heroku dashboard for that app. Keep one eye on it.
    
 Once deployment finishes, let the project team know it's live and run any 
