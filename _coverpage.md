@@ -1,10 +1,9 @@
-<img src="https://pixielabs.io/assets/logos/white-with-green-logo.svg"
-     style="max-width: 300px" />
+<img src="/logo.svg" alt="Pixie Labs Logo" style="max-width: 300px" />
 
 # Handbook
 
-> Guides for how we work together as a team, grow as individuals,
-support our clients and build great software!
+> A guide for how we work together as a team, grow as individuals,
+> support our clients and build great software.
 
 [GitHub](https://github.com/pixielabs/handbook/)
 [Start reading](#welcome)
