@@ -30,6 +30,7 @@
   - [Support processes](/04-ongoing-support/02-support-processes.md)
   - [Debugging](/04-ongoing-support/03-debugging.md)
   - [Alerts](/04-ongoing-support/04-alerts.md)
+  - [Incident management](/04-ongoing-support/05-incident-management.md)
 
 - Personal development
 
