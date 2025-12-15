@@ -23,6 +23,7 @@
   - [Testing](/03-project-delivery/05-testing.md)
   - [Reviews](/03-project-delivery/06-reviews.md)
   - [Deploying](/03-project-delivery/07-deploying.md)
+  - [Documentation](/03-project-delivery/08-documentation.md)
 
 - Ongoing support
 
