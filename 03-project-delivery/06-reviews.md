@@ -178,6 +178,6 @@ After submitting, remember to:
 
 ## Project delivery metrics
 
-The [project delivery metrics](../02-project-management/05-project-delivery-metrics.md)
+The [project delivery metrics](../02-project-management/04-project-delivery-metrics.md)
 section of the handbook contains details about pull request cycle time, size,
 time to review.
