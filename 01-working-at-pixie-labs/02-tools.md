@@ -56,7 +56,7 @@ We use [Slack](https://slack.com/) for day-to-day communication and
 [Front](https://frontapp.com/) for emails. Front is a key part of how we
 support our clients, as it enables us to efficiently handle support queries via
 a shared inbox. See our guide on [Support
-processes](../04-ongoing-support/02-support-processes.md).
+processes](../05-ongoing-support/02-support-processes.md).
 
 ### Video and voice calls
 We're big believers in avoiding email ping-pong, and instant messaging via 

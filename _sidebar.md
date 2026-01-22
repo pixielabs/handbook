@@ -24,19 +24,19 @@
   - [Reviews](/03-project-delivery/06-reviews.md)
   - [Deploying](/03-project-delivery/07-deploying.md)
 
+- AI
+
+  - [Using AI](/04-ai/01-using-ai.md)
+
 - Ongoing support
 
-  - [Types of support](/04-ongoing-support/01-types-of-support.md)
-  - [Support processes](/04-ongoing-support/02-support-processes.md)
-  - [Debugging](/04-ongoing-support/03-debugging.md)
-  - [Alerts](/04-ongoing-support/04-alerts.md)
-  - [Incident management](/04-ongoing-support/05-incident-management.md)
+  - [Types of support](/05-ongoing-support/01-types-of-support.md)
+  - [Support processes](/05-ongoing-support/02-support-processes.md)
+  - [Debugging](/05-ongoing-support/03-debugging.md)
+  - [Alerts](/05-ongoing-support/04-alerts.md)
+  - [Incident management](/05-ongoing-support/05-incident-management.md)
 
 - Personal development
 
-  - [Billable vs Non-billable](/05-personal-development/01-billable-vs-non-billable.md)
-  - [Non-billable time](/05-personal-development/02-non-billable-priorities.md)
-
-- AI
-
-  - [Using AI](/06-ai/01-using-ai.md)
+  - [Billable vs Non-billable](/06-personal-development/01-billable-vs-non-billable.md)
+  - [Non-billable time](/06-personal-development/02-non-billable-priorities.md)

@@ -50,8 +50,8 @@ not slow us down.
 If we discover something is wrong primarily from a client emailing us, we have
 failed. We should already be aware of, or investigating, an issue before our
 clients contact us to say they’ve spotted something is up. See our guides on
-[Support Processes](../04-ongoing-support/02-support-processes.md) and
-[Alerts](../04-ongoing-support/04-alerts.md).
+[Support Processes](../05-ongoing-support/02-support-processes.md) and
+[Alerts](../05-ongoing-support/04-alerts.md).
 
 ## Things we can sacrifice
 

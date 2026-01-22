@@ -6,7 +6,7 @@ We manage critical support with the following tools and processes:
 
 - **A suite of monitoring tools and alerts** so we're promptly informed when 
   something goes wrong. More details can be found in our guide on 
-  [Alerts](/04-ongoing-support/04-alerts.md).
+  [Alerts](/05-ongoing-support/04-alerts.md).
 - **A weekday rota** ensuring there's always someone orchestrating incident 
   responses using our ClickUp board.
 - **Runbooks** providing guidelines on how to handle common issues.
