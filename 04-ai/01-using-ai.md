@@ -1,16 +1,16 @@
 # Using AI
 
+Writing code has never been the primary job of a developer—it's solving problems. AI doesn't change this; it just adds another layer of abstraction. Using Claude Code sits in the same evolution as moving from assembly language to higher-level languages: we're delegating the mechanical details to focus on what matters.
+
 ## Our philosophy
 
 As an engineer at Pixie Labs, you're expected to use AI as part of your daily workflows. Here's what that means in practice:
 
 - **Embrace automation to move faster.** AI is fast, handles syntax flawlessly, and works without fatigue. However, it lacks deep context about Pixie Labs and is occasionally confidently wrong; always give clear direction.
-- **Full ownership required.** We use AI to accelerate, not circumvent. Never merge code you haven't understood and reviewed thoroughly. You must be able to explain every line - "AI generated it" isn't an acceptable excuse.
+- **Full ownership required.** We use AI to accelerate, not circumvent. Never merge code you haven't understood and reviewed thoroughly. You must be able to explain every line - "AI generated it" isn't an acceptable excuse. This is especially critical for junior developers: you're accountable for understanding the patterns and decisions in the code, not just that it works.
 - **Build better systems.** AI doesn't retain context between sessions. If you keep repeating yourself, don't just fix the code in silence; update the project's CLAUDE.md file or create a shared Skill. More importantly, build systems that improve AI effectiveness through back pressure (see below). The better your feedback mechanisms, the more you can delegate.
 
 ## When to use AI
-
-Delegate repetitive tasks to AI. Free yourself from boilerplate and syntax details to concentrate on architecture and business logic.
 
 **Drafting.** Skip the grunt work and start refining. Let AI create component scaffolds, initial tests, and basic CRUD operations whilst you focus on the interesting problems.
 
@@ -39,11 +39,7 @@ AI recognises patterns but lacks contextual understanding. Maintain human contro
 
 ## Back pressure: the multiplier
 
-Back pressure is automated feedback that helps AI identify and correct mistakes as it works. This is the most important concept for effective AI usage.
-
-**What it is:** Mechanisms that automatically provide corrective feedback to the AI without requiring your intervention. Think of it as guard rails that keep the AI aligned to the task.
-
-**Why it matters:** Back pressure removes you from routine problem-solving. Instead of manually catching every error, the system provides immediate corrections. This lets you focus on high-level decisions rather than trivial issues, dramatically improving your ability to delegate complex work.
+Back pressure is automated feedback that helps AI self-correct without your intervention. Think of it as guard rails keeping the AI aligned whilst you focus on high-level decisions. This is the most important concept for effective AI usage.
 
 **How to implement it:**
 
@@ -65,17 +61,27 @@ When you build back pressure into your workflow, AI becomes exponentially more c
 
 **You own the output.** You're accountable for everything you merge - bugs, vulnerabilities, all of it.
 
-**Understand what you ship.** Never merge code you don't fully grasp. When AI produces unclear code, demand an explanation or a clearer version.
-
 **Human review required.** All AI-generated code must be reviewed before merging. First by you, then by the team, as usual.
 
 **Disclose AI assistance.** Let Claude Code automatically add its `Co-Authored-By` trailer to commits. This helps reviewers know what to look for.
+
+## Juniors: learn what you're wielding
+
+AI is harder to use well when you're still building fundamentals. If you're earlier in your career, add these processes:
+
+- **Understand before accepting.** Don't just verify the code works—understand why it works. Ask AI to explain its approach, then verify that explanation against documentation.
+- **Build mental models.** When AI generates a solution, trace through it manually. What would break if you changed a variable? Why did it choose this pattern?
+- **Cross-reference learning.** If AI introduces a new concept, library, or pattern, spend time reading the official docs. AI gives you the shortcut; make sure you know the long route too.
+- **Pair with seniors more often.** Get code reviewed not just for correctness, but for learning. Ask questions about why AI made certain choices.
+- **Practice without AI regularly.** Set aside time to solve problems manually. You're building skills that will make your AI usage far more effective later.
+
+The goal isn't to avoid AI—it's to ensure you're learning the fundamentals that make AI a force multiplier rather than a crutch.
 
 ## Reviewing AI-generated code
 
 All AI-generated code must follow our standard [code review process](../03-project-delivery/06-reviews.md). In addition to those guidelines, pay special attention to these AI-specific concerns:
 
-Human review is required. Look for logical errors, not typos. AI writes syntactically clean code that may solve the wrong problem.
+Look for logical errors, not typos. AI writes syntactically clean code that may solve the wrong problem.
 
 **Verify correctness.** AI produces convincing solutions that may miss the mark. Verify the logic matches requirements by tracing execution paths and validating variable usage.
 
@@ -94,8 +100,6 @@ Like any powerful tool, AI requires careful use. Watch for these frequent mistak
 **Deprecated patterns.** AI suggests outdated dependencies or references old documentation. It can search the web for the latest, just ask.
 
 **Ignoring existing architecture.** The new code doesn't match existing patterns - point AI to similar existing code.
-
-**Over-engineering.** AI scope creeps. Define boundaries clearly and scrutinise diffs. Remind it to keep things simple.
 
 **Plausible but wrong tests.** Passing tests don't guarantee correctness. Review assertions carefully - AI sometimes writes tests that pass without testing anything meaningful, or skips them entirely.
 
