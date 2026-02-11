@@ -75,10 +75,7 @@ If PII is accidentally committed to a repository:
 2. Follow [GitHub's process to remove sensitive
    data](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
    from the repository history.
-3. Use `git filter-repo` or BFG Repo-Cleaner to rewrite history.
-4. Force push the cleaned history and ensure GitHub Support removes the data
-   from their servers if needed.
-5. Consider rotating any credentials or notifying affected users if required.
+3. Consider rotating any credentials or notifying affected users if required.
 
 ### Limit PII to production systems
 - In general, PII should only exist in production systems.
