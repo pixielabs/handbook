@@ -52,8 +52,47 @@
 - Never, except with prior approval, pull down a production database on to your
   own machine. If you do need to, and it's approved, remove as much customer
   data as possible.
-- Do not give third-party applications access to GitHub (e.g. via sign-in with 
+- Do not give third-party applications access to GitHub (e.g. via sign-in with
   GitHub, oAuth, API access etc) without checking it's OK with someone else.
 - Do not share client code with anyone who is not a member of Pixie Labs.
 - You should not copy code from one client to another, or to any other project or
   codebase, whether Pixie Labs or not.
+
+## Personally Identifiable Information (PII)
+PII includes names, email addresses, phone numbers, addresses, IP addresses, and
+any other data that can identify an individual.
+
+### Never commit PII to code
+- **PII must never be committed to code repositories.** This includes test data,
+  fixtures, seed files, example data in documentation, or hardcoded values.
+- Use anonymized or synthetic data for testing and development.
+- Review your commits before pushing to ensure no PII has been accidentally
+  included.
+
+### If PII is committed
+If PII is accidentally committed to a repository:
+1. **Stop immediately** and notify the team.
+2. Follow [GitHub's process to remove sensitive
+   data](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
+   from the repository history.
+3. Use `git filter-repo` or BFG Repo-Cleaner to rewrite history.
+4. Force push the cleaned history and ensure GitHub Support removes the data
+   from their servers if needed.
+5. Consider rotating any credentials or notifying affected users if required.
+
+### Limit PII to production systems
+- In general, PII should only exist in production systems.
+- Development and staging environments should use anonymized or synthetic data.
+- If you must work with real PII in non-production environments (with explicit
+  approval), ensure it's properly secured and deleted when no longer needed.
+
+### Minimize PII sharing between services
+- **Redact PII from logs.** Never log sensitive user data like passwords, full
+  credit card numbers, or other PII.
+- **Redact PII from error reporting tools** (e.g. Sentry, Bugsnag). Configure
+  scrubbing rules to remove PII before errors are sent.
+- Only share PII between services when absolutely necessary for functionality.
+- When PII must be shared, use secure transmission methods (encrypted
+  connections, time-limited tokens, etc.).
+- Consider using references (IDs) instead of passing actual PII between
+  services where possible.
