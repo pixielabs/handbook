@@ -2,8 +2,9 @@
 
 Alerts should:
 
-- Be noise free. If an alarm occurs, it means action needs to be taken. 
-- Be visible. Alarms should go to Slack.
+- Be noise-free. If an alarm occurs, action is needed. 
+- Be visible. If a client site is down, it should go to Slack. Other alerts
+  should go to the support inbox.
 - Be actionable. If an alarm requires no action, the alarm needs to be fixed.
   If an alarm has an ambiguous action, it needs to be better, or needs a better
   runbook entry.
